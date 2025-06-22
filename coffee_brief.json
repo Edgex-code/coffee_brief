@@ -1,0 +1,17 @@
+[
+  {
+    "id": "1",
+    "title": "Asian Markets Stay Quiet and U.S. Bond Yields Fall",
+    "content": "Stock markets in Asia remained flat as investors continued to worry about trade wars, especially between the U.S. and China. At the same time, the U.S. dollar weakened compared to other major currencies, often a sign that investors expect lower interest rates. Supporting that view, the yield on the 10-year U.S. Treasury bond dropped again, following a 0.10 percentage point fall the day before. This reflects growing expectations that the Federal Reserve will cut interest rates twice this year to help the slowing economy."
+  },
+  {
+    "id": "2", 
+    "title": "Europe Faces Pressure from Chinese Imports; Ukraine Peace Hopes Fade",
+    "content": "Your detailed content for the second brief. You can include multiple paragraphs and detailed analysis here."
+  },
+  {
+    "id": "3",
+    "title": "China Stocks Lag; Alibaba Disappoints; Tariffs Likely to Stay High", 
+    "content": "Your detailed content for the third brief. The app will automatically show the last 3 items from your JSON array."
+  }
+]
