@@ -7,11 +7,11 @@
   {
     "id": "2", 
     "title": "Europe Faces Pressure from Chinese Imports; Ukraine Peace Hopes Fade",
-    "content": "Your detailed content for the second brief. You can include multiple paragraphs and detailed analysis here."
+    "content": "European markets are under watch as China's trade surplus with the EU grows. This means China is selling more to Europe than it's buying, raising concerns that European industries may suffer from a flood of cheap imports. Meanwhile, hopes for a peace deal in Ukraine were dampened when Russian President Putin sent only a junior delegation to new talks in Turkey, signaling low commitment to ending the conflict."
   },
   {
     "id": "3",
     "title": "China Stocks Lag; Alibaba Disappoints; Tariffs Likely to Stay High", 
-    "content": "Your detailed content for the third brief. The app will automatically show the last 3 items from your JSON array."
+    "content": "Chinese and Hong Kong stock markets performed worse than their Asian neighbors. Alibaba’s stock fell after its financial results didn't meet investor expectations. A Bloomberg survey suggests that the current 30% U.S. tariffs on Chinese goods are expected to remain in place through late 2025, adding long-term pressure on Chinese exporters. Additionally, former President Trump’s new deals involving artificial intelligence with Middle Eastern countries are causing friction within his team, especially among those wary of China's influence in tech."
   }
 ]
