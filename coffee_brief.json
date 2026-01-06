@@ -1,17 +1,17 @@
 [
-  {
+ {
     "id": "1",
-    "title": "Asian Markets Stay Quiet and U.S. Bond Yields Fall",
-    "content": "Stock markets in Asia remained flat as investors continued to worry about trade wars, especially between the U.S. and China. At the same time, the U.S. dollar weakened compared to other major currencies, often a sign that investors expect lower interest rates. Supporting that view, the yield on the 10-year U.S. Treasury bond dropped again, following a 0.10 percentage point fall the day before. This reflects growing expectations that the Federal Reserve will cut interest rates twice this year to help the slowing economy."
+    "title": "Markets Rally and Rally Into the New Year Amid Record Index Levels",
+    "content": "Global stock markets ended late December and opened 2026 with strong gains, with major U.S. indices like the Dow Jones and S&P 500 setting new record highs. Investors were active despite the holiday-shortened week, and both energy and defence sectors helped lift equities as optimism carried over into the first week of the year. The FTSE-100 in London also climbed to record levels near and above 10,000 points, reflecting broader risk appetite. Overall, markets navigated thin liquidity, year-end position adjustments, and early signals for 2026 with a rally-biased tone. :contentReference[oaicite:0]{index=0}"
   },
   {
-    "id": "2", 
-    "title": "Europe Faces Pressure from Chinese Imports; Ukraine Peace Hopes Fade",
-    "content": "European markets are under watch as China's trade surplus with the EU grows. This means China is selling more to Europe than it's buying, raising concerns that European industries may suffer from a flood of cheap imports. Meanwhile, hopes for a peace deal in Ukraine were dampened when Russian President Putin sent only a junior delegation to new talks in Turkey, signaling low commitment to ending the conflict."
+    "id": "2",
+    "title": "Geopolitical Shock in Venezuela Drives Energy, Bonds, Metals and Safe-Haven Trades",
+    "content": "A dominant theme was the U.S. military’s capture of Venezuelan President Nicolás Maduro, which rippled through global markets. Energy shares — particularly U.S. oil and oil-services stocks — surged on expectations of future Venezuelan oil sector participation, even though production remains limited. Venezuelan government bonds jumped sharply as investors repositioned around possible debt restructuring. Precious metals like gold and silver also climbed as geopolitical risk prompted safe-haven flows, while commodity and defence sectors saw strong performance. However, analysts noted that any meaningful increase in Venezuelan oil output will likely take years of investment and faces significant economic and political uncertainty. :contentReference[oaicite:1]{index=1}"
   },
   {
     "id": "3",
-    "title": "China Stocks Lag; Alibaba Disappoints; Tariffs Likely to Stay High", 
-    "content": "Chinese and Hong Kong stock markets performed worse than their Asian neighbors. Alibaba’s stock fell after its financial results didn't meet investor expectations. A Bloomberg survey suggests that the current 30% U.S. tariffs on Chinese goods are expected to remain in place through late 2025, adding long-term pressure on Chinese exporters. Additionally, former President Trump’s new deals involving artificial intelligence with Middle Eastern countries are causing friction within his team, especially among those wary of China's influence in tech."
+    "title": "Mixed Asset Responses: Commodities, FX and Tech Focus Enter 2026",
+    "content": "Alongside the headline equity rallies and geopolitical moves, broader markets showed mixed signals. Oil prices experienced modest moves despite the Venezuela situation, reflecting substantial global supply and OPEC+ dynamics. The U.S. dollar remained firm as a dominant global currency amid ongoing risk and policy uncertainty. Technology and AI-related stocks continued to underpin market gains in the U.S., especially as investors looked ahead to key industry events and earnings. Other asset classes like bonds and currencies responded to shifting expectations around inflation, jobs data, and central bank policy in the new year. :contentReference[oaicite:2]{index=2}"
   }
 ]
