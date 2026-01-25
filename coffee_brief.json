@@ -1,17 +1,18 @@
 [
- {
+  {
     "id": "1",
-    "title": "Markets Rally and Rally Into the New Year Amid Record Index Levels",
-    "content": "Global stock markets ended late December and opened 2026 with strong gains, with major U.S. indices like the Dow Jones and S&P 500 setting new record highs. Investors were active despite the holiday-shortened week, and both energy and defence sectors helped lift equities as optimism carried over into the first week of the year. The FTSE-100 in London also climbed to record levels near and above 10,000 points, reflecting broader risk appetite. Overall, markets navigated thin liquidity, year-end position adjustments, and early signals for 2026 with a rally-biased tone. :contentReference[oaicite:0]{index=0}"
+    "title": "FX markets jittery as yen spikes on intervention speculation",
+    "content": "The Japanese yen surged sharply against the USD, triggering speculation that authorities might intervene to support the currency after prolonged weakness. FX markets opened the week on edge, with traders anticipating possible official buying to halt the yen’s slide after it rebounded from multi-month lows. Japanese PM Sanae Takaichi vowed to act against abnormal market moves, and the New York Fed’s rate check raised intervention expectations. Volatility in the yen has broader implications for equity and bond markets as risk sentiment adjusts to currency stress and potential policy responses. Markets remain sensitive to intervention cues amid thin liquidity."
   },
   {
     "id": "2",
-    "title": "Geopolitical Shock in Venezuela Drives Energy, Bonds, Metals and Safe-Haven Trades",
-    "content": "A dominant theme was the U.S. military’s capture of Venezuelan President Nicolás Maduro, which rippled through global markets. Energy shares — particularly U.S. oil and oil-services stocks — surged on expectations of future Venezuelan oil sector participation, even though production remains limited. Venezuelan government bonds jumped sharply as investors repositioned around possible debt restructuring. Precious metals like gold and silver also climbed as geopolitical risk prompted safe-haven flows, while commodity and defence sectors saw strong performance. However, analysts noted that any meaningful increase in Venezuelan oil output will likely take years of investment and faces significant economic and political uncertainty. :contentReference[oaicite:1]{index=1}"
+    "title": "Central banks diverge: Canada holds rates, Brazil set to cut",
+    "content": "Major central banks signalled contrasting policy paths this week. A Reuters poll showed the Bank of Canada is likely to keep its policy rate on hold throughout 2026 amid steady growth and contained inflation expectations. Conversely, economists expect Brazil’s central bank to begin cutting interest rates in March to stimulate a weakening economy, marking the first reduction in almost two years. These divergent monetary stances underscore differing economic conditions across regions and are influencing global yield curves, currencies and EM capital flows as markets price adjustment cycles."
   },
   {
     "id": "3",
-    "title": "Mixed Asset Responses: Commodities, FX and Tech Focus Enter 2026",
-    "content": "Alongside the headline equity rallies and geopolitical moves, broader markets showed mixed signals. Oil prices experienced modest moves despite the Venezuela situation, reflecting substantial global supply and OPEC+ dynamics. The U.S. dollar remained firm as a dominant global currency amid ongoing risk and policy uncertainty. Technology and AI-related stocks continued to underpin market gains in the U.S., especially as investors looked ahead to key industry events and earnings. Other asset classes like bonds and currencies responded to shifting expectations around inflation, jobs data, and central bank policy in the new year. :contentReference[oaicite:2]{index=2}"
+    "title": "RBI commits record liquidity injection amid volatility",
+    "content": "The Reserve Bank of India announced plans to inject over $23 billion into the banking system via bond purchases, FX swaps and repos to reinforce recent rate cuts and counter liquidity strains from currency interventions. The multi-tranche liquidity push – including a record volume of government bond purchases – aims to align system liquidity with RBI targets as yields and rupee volatility rise. This significant central bank action has implications for EM debt markets and signals a proactive approach to financial stability amid global volatility."
   }
 ]
+
