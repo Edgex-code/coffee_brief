@@ -1,18 +1,17 @@
 [
   {
     "id": "1",
-    "title": "FX markets jittery as yen spikes on intervention speculation",
-    "content": "The Japanese yen surged sharply against the USD, triggering speculation that authorities might intervene to support the currency after prolonged weakness. FX markets opened the week on edge, with traders anticipating possible official buying to halt the yen’s slide after it rebounded from multi-month lows. Japanese PM Sanae Takaichi vowed to act against abnormal market moves, and the New York Fed’s rate check raised intervention expectations. Volatility in the yen has broader implications for equity and bond markets as risk sentiment adjusts to currency stress and potential policy responses. Markets remain sensitive to intervention cues amid thin liquidity."
+    "title": "Fed pauses rate cuts at 3.50%-3.75% as Trump nominates Kevin Warsh for Chair",
+    "content": "The Fed held the FFR steady at 3.50%-3.75% on 28 January, pausing its easing cycle despite significant White House pressure. Chair Powell emphasised a 'wait-and-see' approach, citing resilient growth and sticky core PCE at 2.8%. The decision was followed by a surprise announcement on 30 January as President Trump nominated former Governor Kevin Warsh to succeed Powell in May. Markets reacted with extreme volatility; US equities fell on the news, while the DXY rallied toward 97.00. The move sparked a 'liquidity shock' in month-end trading, as Warsh is perceived as more hawkish than alternative candidates. Treasury yields rose as investors repriced the 2026 easing path, with markets now betting on fewer cuts than previously anticipated under the new leadership transition."
   },
   {
     "id": "2",
-    "title": "Central banks diverge: Canada holds rates, Brazil set to cut",
-    "content": "Major central banks signalled contrasting policy paths this week. A Reuters poll showed the Bank of Canada is likely to keep its policy rate on hold throughout 2026 amid steady growth and contained inflation expectations. Conversely, economists expect Brazil’s central bank to begin cutting interest rates in March to stimulate a weakening economy, marking the first reduction in almost two years. These divergent monetary stances underscore differing economic conditions across regions and are influencing global yield curves, currencies and EM capital flows as markets price adjustment cycles."
+    "title": "Metals market collapse as Silver drops 30% and Gold falls below $5,000",
+    "content": "Precious metals experienced a 'cascading liquidation event' on 30 January, with Silver plunging 30% from $115 to near $70 and Gold dropping below the psychological $5,000 support level. The sell-off was triggered by a combination of the surprise Warsh nomination, a surging USD, and aggressive month-end profit-taking following record highs in early 2026. While safe-haven demand had been bolstered by tensions in Iran and Venezuela earlier in the week, the sudden shift in US monetary expectations led to a massive unwinding of long positions. Industrial metals also faced pressure as World Bank reports projected a 7% decline in commodity prices for 2026 due to a growing oil surplus and slowing global demand. Analysts warned that failure to find immediate buyers could turn this into a deeper liquidity crisis."
   },
   {
     "id": "3",
-    "title": "RBI commits record liquidity injection amid volatility",
-    "content": "The Reserve Bank of India announced plans to inject over $23 billion into the banking system via bond purchases, FX swaps and repos to reinforce recent rate cuts and counter liquidity strains from currency interventions. The multi-tranche liquidity push – including a record volume of government bond purchases – aims to align system liquidity with RBI targets as yields and rupee volatility rise. This significant central bank action has implications for EM debt markets and signals a proactive approach to financial stability amid global volatility."
+    "title": "Global trade tensions escalate over Greenland and new European tariff threats",
+    "content": "Global equity indices, particularly in Europe, faced heavy selling pressure after President Trump threatened new tariffs on European nations opposing US interests in Greenland. The CAC 40 and DAX fell by 1.4% and 1.6% respectively as trade uncertainty resurfaced. Concurrently, the IMF’s January WEO update revised 2026 global growth slightly up to 3.3% but warned that 'abrupt financial market corrections' remain a high risk, particularly in AI-linked sectors. In Asia, the KOSPI and TAIEX hit record highs on AI demand, but Japanese equities struggled as 40-year JGB yields saw historic spikes amid fiscal concerns and electoral uncertainty. The divergence between buoyant AI-driven tech sentiment and deteriorating trade relations continues to drive cross-asset volatility, with the US-China export battle weighing on German manufacturing growth."
   }
 ]
-
