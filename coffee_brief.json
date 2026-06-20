@@ -1,20 +1,20 @@
 [
   {
     "id": "1",
-    "title": "Oil spikes to $119 as Middle East conflict disables 17% of Qatar LNG capacity",
-    "content": "Global energy markets were upended this week following retaliatory strikes on critical infrastructure in the Persian Gulf. After US-Israeli operations in Iran, strikes on the South Pars gas field and Qatar’s largest LNG plant have disabled approximately 17% of Qatar’s export capacity, with repairs expected to take years. Brent crude peaked at $119 per barrel before settling near $112, while European natural gas prices soared. The closure of the Strait of Hormuz has halted 20% of global oil supply, sparking fears of a sustained inflationary shock. Equities retreated globally, with the S&P 500 closing below its 200-day moving average for the first time in 200 sessions, as investors rotated aggressively into the energy sector (+32% YTD) and safe-haven assets.",
-    "date": "23 March 2026"
+    "title": "US and Iran Agree Peace Deal; Strait of Hormuz to Reopen as Oil Falls",
+    "content": "On 14 June 2026, the US and Iran announced a deal to end their nearly four-month war, with Pakistan mediating and a formal signing scheduled in Geneva. Key terms include Iran resuming oil exports, the US naval blockade lifting, and the Strait of Hormuz reopening under a 60-day ceasefire framework allowing nuclear talks. Brent crude fell more than $4/barrel on the announcement, unwinding part of the Iran-war energy premium that had driven global inflation sharply higher since February. Equity futures surged on 16 June. Planned technical talks in Switzerland faced postponement on 19 June, adding near-term uncertainty, but the deal markedly reduces the tail risk that had reshaped central bank policy globally.",
+    "date": "16 June 2026"
   },
   {
     "id": "2",
-    "title": "OECD slashes UK growth forecasts to 0.7% amid global energy price shock",
-    "content": "In its Interim Economic Outlook released on 26 March, the OECD warned that the Middle East conflict has derailed the global recovery. The UK faced the sharpest downgrade among G20 nations, with 2026 GDP growth slashed to 0.7% from 1.2% previously. The report highlights that renewed energy spikes have revived inflation risks just as central banks were preparing to pivot. The OECD held its global growth forecast at 2.9%, citing AI-driven investment as a partial offset to the energy crisis, but warned of 'extensive repricing' if disruptions persist. Market reaction saw Bund and Treasury yields push to new cycle highs as traders priced in a 'higher-for-longer' regime, with the Germany-France 10-year spread widening to 71bps on fears of European fiscal strain.",
-    "date": "26 March 2026"
+    "title": "Fed Holds Rates but Dot Plot Flips Hawkish; Warsh Era Signals Rate Hike Ahead",
+    "content": "The FOMC voted 12-0 on 17 June 2026 to hold the federal funds rate at 3.50%–3.75% at Kevin Warsh's inaugural meeting as Fed Chair, but the updated dot plot delivered a hawkish jolt. Nine of 18 policymakers now project at least one 25bp rate hike before year-end 2026, with the median dot implying a year-end rate of 3.8%—erasing earlier cut signals. The Fed removed forward guidance pointing to future reductions. Treasury markets reacted sharply: the 2-year UST yield jumped ~14bp to 4.19%, with money markets fully pricing a hike by October. The S&P 500 fell ~1.2% on 18 June and the USD strengthened broadly, reflecting a decisive shift to 'higher for longer'.",
+    "date": "17 June 2026"
   },
   {
     "id": "3",
-    "title": "Fed and BoE pause rate cuts as 'stagflation' fears grip bond markets",
-    "content": "The Fed and BoE both held interest rates steady this week (3.50%-3.75% and 3.75% respectively), citing a 'wait-and-see' stance as energy-led inflation stalls progress. Fed Chair Powell acknowledged that core PCE is now projected at 2.7% for 2026, well above the 2% target, while the BoE's split 5-4 vote reflected growing internal friction. Markets have effectively priced out near-term easing, with UST 2-year yields jumping to 3.93% and 10-year yields hitting 4.40%, the highest since last July. The combination of sticky US PPI (0.7%) and surging crude has fueled 'stagflation' narratives, leading to a 7% stabilization-drop in the S&P 500 from its peak. Analysts suggest the 'policy cushion' to absorb further shocks is now critically thin.",
-    "date": "27 March 2026"
+    "title": "Bank of Japan Raises Policy Rate to 1%, Highest Level Since 1995",
+    "content": "The Bank of Japan's Policy Board voted 7-1 on 16 June 2026 to raise its policy rate by 25 basis points to 1.00%—the highest since September 1995—continuing its gradual monetary normalisation. The sole dissenter, board member Asada Toichiro, cited downside risks to output and employment. The BoJ cited Iran-war-driven energy costs as a risk to underlying inflation exceeding the 2% target and reaffirmed its plan to taper JGB purchases by ¥200bn per quarter, targeting monthly purchases of ¥2tn from April 2027. The decision was broadly in line with market expectations but meaningfully narrowed the US–Japan yield differential, supporting JPY and pressuring carry-trade positions.",
+    "date": "16 June 2026"
   }
 ]
