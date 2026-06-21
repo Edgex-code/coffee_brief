@@ -1,20 +1,20 @@
 [
   {
     "id": "1",
-    "title": "US and Iran Agree Peace Deal; Strait of Hormuz to Reopen as Oil Falls",
-    "content": "On 14 June 2026, the US and Iran announced a deal to end their nearly four-month war, with Pakistan mediating and a formal signing scheduled in Geneva. Key terms include Iran resuming oil exports, the US naval blockade lifting, and the Strait of Hormuz reopening under a 60-day ceasefire framework allowing nuclear talks. Brent crude fell more than $4/barrel on the announcement, unwinding part of the Iran-war energy premium that had driven global inflation sharply higher since February. Equity futures surged on 16 June. Planned technical talks in Switzerland faced postponement on 19 June, adding near-term uncertainty, but the deal markedly reduces the tail risk that had reshaped central bank policy globally.",
-    "date": "16 June 2026"
-  },
-  {
-    "id": "2",
-    "title": "Fed Holds Rates but Dot Plot Flips Hawkish; Warsh Era Signals Rate Hike Ahead",
-    "content": "The FOMC voted 12-0 on 17 June 2026 to hold the federal funds rate at 3.50%–3.75% at Kevin Warsh's inaugural meeting as Fed Chair, but the updated dot plot delivered a hawkish jolt. Nine of 18 policymakers now project at least one 25bp rate hike before year-end 2026, with the median dot implying a year-end rate of 3.8%—erasing earlier cut signals. The Fed removed forward guidance pointing to future reductions. Treasury markets reacted sharply: the 2-year UST yield jumped ~14bp to 4.19%, with money markets fully pricing a hike by October. The S&P 500 fell ~1.2% on 18 June and the USD strengthened broadly, reflecting a decisive shift to 'higher for longer'.",
+    "title": "Fed Holds at 3.50–3.75% but Dot Plot Signals Potential 2026 Rate Hike",
+    "content": "The FOMC voted unanimously on 17 June to hold the federal funds rate at 3.50%–3.75% in Chair Kevin Warsh's inaugural meeting. The hawkish signal came via the updated dot plot: the 2026 median rose to 3.8%, with nine of 18 officials projecting rates above the current range by year-end, reversing prior easing guidance entirely. The Fed lifted its 2026 headline PCE forecast to 3.6% and core to 3.3%, reflecting US CPI at 4.2% YoY in May — its highest since April 2023. GDP growth was trimmed modestly to 2.2%. UST yields extended their climb and the DXY firmed as markets priced out cuts and began discounting a potential hike later in 2026. Warsh also announced task forces to overhaul Fed communications and operations.",
     "date": "17 June 2026"
   },
   {
+    "id": "2",
+    "title": "Brent Crude Drops ~8% on Week as Israel-Hezbollah Ceasefire Calms Middle East",
+    "content": "Brent crude fell roughly 8% over the week of 16–20 June, settling near $80/bbl on Friday, as an Israel-Hezbollah ceasefire and recovering Strait of Hormuz shipping traffic unwound the war-risk premium built since the Iran conflict erupted in late February. WTI closed near $77/bbl, down ~10% on the week. The move carries significant inflation implications: surging energy costs had pushed US CPI to 4.2% and prompted the ECB's first rate hike since 2023. Formal US–Iran talks in Bürgenstock were abruptly postponed on 19 June, tempering further downside and leaving markets alert to re-escalation risk. Energy equities underperformed, whilst relief on energy-driven inflation expectations provided modest support to global fixed income across the curve.",
+    "date": "20 June 2026"
+  },
+  {
     "id": "3",
-    "title": "Bank of Japan Raises Policy Rate to 1%, Highest Level Since 1995",
-    "content": "The Bank of Japan's Policy Board voted 7-1 on 16 June 2026 to raise its policy rate by 25 basis points to 1.00%—the highest since September 1995—continuing its gradual monetary normalisation. The sole dissenter, board member Asada Toichiro, cited downside risks to output and employment. The BoJ cited Iran-war-driven energy costs as a risk to underlying inflation exceeding the 2% target and reaffirmed its plan to taper JGB purchases by ¥200bn per quarter, targeting monthly purchases of ¥2tn from April 2027. The decision was broadly in line with market expectations but meaningfully narrowed the US–Japan yield differential, supporting JPY and pressuring carry-trade positions.",
-    "date": "16 June 2026"
+    "title": "ECB Raises Deposit Rate to 2.25% — First Hike Since 2023 Amid Stagflation Risk",
+    "content": "The ECB Governing Council raised its deposit rate by 25bp to 2.25% on 11 June — its first hike since September 2023 — as the Iran war drove eurozone HICP to 3.2% YoY in May, the highest reading since September 2023. The new rate took effect on 17 June. Staff projections see headline inflation averaging 3.0% in 2026 and 2.3% in 2027, whilst GDP growth was trimmed to just 0.8% for 2026, raising stagflation concerns across the bloc. The ECB characterised the decision as robust across a range of geopolitical scenarios. EUR/USD firmed initially; Bund yields rose across the curve with 10-year spreads to USTs narrowing. Markets are pricing the possibility of further tightening should energy costs remain elevated.",
+    "date": "11 June 2026"
   }
 ]
