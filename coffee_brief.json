@@ -1,20 +1,20 @@
 [
   {
     "id": "1",
-    "title": "Fed Holds at 3.50–3.75% but Dot Plot Signals Potential 2026 Rate Hike",
-    "content": "The FOMC voted unanimously on 17 June to hold the federal funds rate at 3.50%–3.75% in Chair Kevin Warsh's inaugural meeting. The hawkish signal came via the updated dot plot: the 2026 median rose to 3.8%, with nine of 18 officials projecting rates above the current range by year-end, reversing prior easing guidance entirely. The Fed lifted its 2026 headline PCE forecast to 3.6% and core to 3.3%, reflecting US CPI at 4.2% YoY in May — its highest since April 2023. GDP growth was trimmed modestly to 2.2%. UST yields extended their climb and the DXY firmed as markets priced out cuts and began discounting a potential hike later in 2026. Warsh also announced task forces to overhaul Fed communications and operations.",
-    "date": "17 June 2026"
+    "title": "US PCE Hits 4.1% Three-Year High, Cementing Fed Rate Hike Bets for 2026",
+    "content": "The Bureau of Economic Analysis reported on 25 June that headline PCE rose to 4.1% year-on-year in May — its highest since April 2023 — whilst core PCE accelerated to 3.4% YoY, the loftiest reading since October 2023, on a monthly gain of 0.4%. The data, combined with Chair Kevin Warsh's hawkish tone at the 17 June FOMC, has firmed expectations for at least one rate hike in 2026; futures markets now price near-certainty of action by December. Two-year UST yields climbed to 4.21%, their highest in over a year, and the 30-year briefly touched 5.2% — a level last seen in 2007 — before settling around 5.06%. Equity futures edged positive on release, though tech names remained under pressure.",
+    "date": "25 June 2026"
   },
   {
     "id": "2",
-    "title": "Brent Crude Drops ~8% on Week as Israel-Hezbollah Ceasefire Calms Middle East",
-    "content": "Brent crude fell roughly 8% over the week of 16–20 June, settling near $80/bbl on Friday, as an Israel-Hezbollah ceasefire and recovering Strait of Hormuz shipping traffic unwound the war-risk premium built since the Iran conflict erupted in late February. WTI closed near $77/bbl, down ~10% on the week. The move carries significant inflation implications: surging energy costs had pushed US CPI to 4.2% and prompted the ECB's first rate hike since 2023. Formal US–Iran talks in Bürgenstock were abruptly postponed on 19 June, tempering further downside and leaving markets alert to re-escalation risk. Energy equities underperformed, whilst relief on energy-driven inflation expectations provided modest support to global fixed income across the curve.",
-    "date": "20 June 2026"
+    "title": "Brent Slumps to $72 on Hormuz Recovery; Drone Strike Exposes Ceasefire Fragility",
+    "content": "Brent crude settled at $71.99/bbl on 26 June — its lowest since late February and more than 10% below the prior week's close — whilst WTI fell below $70/bbl, as Persian Gulf oil flows continued to recover following the US-Iran interim peace deal signed on 17 June. Exports have recovered to roughly 75% of pre-conflict levels, with Saudi Arabia resuming tanker loadings at Ras Tanura and UAE, Kuwait, and Qatar lifting output. OPEC faces further fragmentation as Iraq threatened to exit over production quotas, following the UAE's departure in May. However, a drone strike on a cargo vessel in the Strait of Hormuz on 26 June rattled shipping markets, pushing war-risk premiums back towards 0.7% of hull value and raising questions about the ceasefire's durability.",
+    "date": "26 June 2026"
   },
   {
     "id": "3",
-    "title": "ECB Raises Deposit Rate to 2.25% — First Hike Since 2023 Amid Stagflation Risk",
-    "content": "The ECB Governing Council raised its deposit rate by 25bp to 2.25% on 11 June — its first hike since September 2023 — as the Iran war drove eurozone HICP to 3.2% YoY in May, the highest reading since September 2023. The new rate took effect on 17 June. Staff projections see headline inflation averaging 3.0% in 2026 and 2.3% in 2027, whilst GDP growth was trimmed to just 0.8% for 2026, raising stagflation concerns across the bloc. The ECB characterised the decision as robust across a range of geopolitical scenarios. EUR/USD firmed initially; Bund yields rose across the curve with 10-year spreads to USTs narrowing. Markets are pricing the possibility of further tightening should energy costs remain elevated.",
-    "date": "11 June 2026"
+    "title": "AI Chip Rout Sends Kospi Down 10% in a Day; Asian Tech Markets Partially Rebound",
+    "content": "South Korea's Kospi suffered its steepest single-session fall in recent memory on 24 June, plunging 10% as SK Hynix and Samsung Electronics both tumbled more than 12% amid concerns over AI hardware demand sustainability at elevated prices. The sell-off spread across the region: Hong Kong's Hang Seng fell 1.82%, mainland China's CSI 300 lost 2.77%, and Japan's Nikkei 225 shed 3.55%. US equity futures also weakened before paring losses. AI-exposed European semiconductor names came under pressure during the session. Markets staged a partial recovery on 25 June — Samsung gained over 9% and SK Hynix more than 4% — but the episode underscored the concentration risk embedded in AI-driven equity rallies and renewed questions about the durability of the semiconductor upcycle underpinning broader index gains.",
+    "date": "24 June 2026"
   }
 ]
