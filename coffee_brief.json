@@ -1,20 +1,20 @@
 [
   {
     "id": "1",
-    "title": "US PCE Hits 4.1% Three-Year High, Cementing Fed Rate Hike Bets for 2026",
-    "content": "The Bureau of Economic Analysis reported on 25 June that headline PCE rose to 4.1% year-on-year in May — its highest since April 2023 — whilst core PCE accelerated to 3.4% YoY, the loftiest reading since October 2023, on a monthly gain of 0.4%. The data, combined with Chair Kevin Warsh's hawkish tone at the 17 June FOMC, has firmed expectations for at least one rate hike in 2026; futures markets now price near-certainty of action by December. Two-year UST yields climbed to 4.21%, their highest in over a year, and the 30-year briefly touched 5.2% — a level last seen in 2007 — before settling around 5.06%. Equity futures edged positive on release, though tech names remained under pressure.",
-    "date": "25 June 2026"
+    "title": "US Payrolls Shock: June Jobs Rise Just 57K, Fed Hike Bets Pared Back",
+    "content": "US non-farm payrolls rose by only 57,000 in June, well below the roughly 110,000-115,000 consensus, the BLS reported on 2 July. The unemployment rate fell to 4.2%, but chiefly because the participation rate slid to 61.5% — its lowest since March 2021 — whilst April and May payrolls were revised down by a combined 74,000. The miss led traders to scale back bets on a Fed rate hike as soon as September, with futures markets sharply paring probabilities. The USD index slipped towards 100.8, and gold extended its rally, breaking above $4,100/oz and touching near $4,170 by 3 July as reduced hike odds boosted the non-yielding metal. UST yields eased on the release.",
+    "date": "2 July 2026"
   },
   {
     "id": "2",
-    "title": "Brent Slumps to $72 on Hormuz Recovery; Drone Strike Exposes Ceasefire Fragility",
-    "content": "Brent crude settled at $71.99/bbl on 26 June — its lowest since late February and more than 10% below the prior week's close — whilst WTI fell below $70/bbl, as Persian Gulf oil flows continued to recover following the US-Iran interim peace deal signed on 17 June. Exports have recovered to roughly 75% of pre-conflict levels, with Saudi Arabia resuming tanker loadings at Ras Tanura and UAE, Kuwait, and Qatar lifting output. OPEC faces further fragmentation as Iraq threatened to exit over production quotas, following the UAE's departure in May. However, a drone strike on a cargo vessel in the Strait of Hormuz on 26 June rattled shipping markets, pushing war-risk premiums back towards 0.7% of hull value and raising questions about the ceasefire's durability.",
-    "date": "26 June 2026"
+    "title": "Eurozone CPI Eases to 2.8%, Cooling ECB Hike Pressure; Stoxx 600 Hits Record",
+    "content": "Eurozone headline CPI eased to 2.8% YoY in June from 3.2%, undershooting the 3.0% forecast, whilst core CPI slowed to 2.4% from 2.6%, data around 1 July showed. The softer print follows the ECB's 25bp hike on 11 June and has reduced pressure for a further move, with policymakers signalling no rush to tighten again; EUR slipped below $1.14 on the news. European equities capitalised on the shift, with the Stoxx 600 closing at a 52-week high of 652.77 on 3 July, up 0.69% on the day and notching a fourth consecutive weekly gain — its best week in over a month — led by defensive utilities and cyclicals.",
+    "date": "1 July 2026"
   },
   {
     "id": "3",
-    "title": "AI Chip Rout Sends Kospi Down 10% in a Day; Asian Tech Markets Partially Rebound",
-    "content": "South Korea's Kospi suffered its steepest single-session fall in recent memory on 24 June, plunging 10% as SK Hynix and Samsung Electronics both tumbled more than 12% amid concerns over AI hardware demand sustainability at elevated prices. The sell-off spread across the region: Hong Kong's Hang Seng fell 1.82%, mainland China's CSI 300 lost 2.77%, and Japan's Nikkei 225 shed 3.55%. US equity futures also weakened before paring losses. AI-exposed European semiconductor names came under pressure during the session. Markets staged a partial recovery on 25 June — Samsung gained over 9% and SK Hynix more than 4% — but the episode underscored the concentration risk embedded in AI-driven equity rallies and renewed questions about the durability of the semiconductor upcycle underpinning broader index gains.",
-    "date": "24 June 2026"
+    "title": "Kospi Swings Wildly, Rebounds 5.8% as Samsung and SK Hynix Surge",
+    "content": "South Korea's Kospi capped a volatile week, rebounding 5.76% on 3 July to reclaim the 8,000 level after tumbling towards 7,300 amid a renewed global AI-chip sell-off. Samsung Electronics jumped 8.2% and SK Hynix surged 10.9%, with sentiment lifted by reports that Samsung is pushing for up to 20% price hikes on Q3 DRAM contracts. The whipsaw echoed the prior week's AI-hardware demand jitters and rippled across Asian tech, whilst institutional investors were net buyers of over KRW4.46trn. Attention now turns to Samsung's preliminary Q2 earnings due 7 July and SK Hynix's Nasdaq ADR listing on 10 July, both seen as tests of the AI rally's durability.",
+    "date": "3 July 2026"
   }
 ]
