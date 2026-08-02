@@ -1,20 +1,20 @@
 [
   {
     "id": "1",
-    "title": "Oil Rises as US-Iran Conflict Escalates, Hormuz Toll Plan Scrapped",
-    "content": "US strikes on Iran entered a seventh consecutive night by 17 July 2026, widening a conflict that began in early July, as Iran hit tankers in the Strait of Hormuz and fired on Qatar, Kuwait and Jordan. Brent crude rose to about $84.73/bbl on 14 July and WTI to $79.34, up roughly 1.5-1.7% on the session, after President Trump threatened a 20% toll on Hormuz cargo before dropping the plan amid shipping-industry opposition; the IMO called mandatory tolls illegal. With around a fifth of global oil flows transiting the strait, the standoff kept a geopolitical risk premium across crude, FX and rates, and reinforced BoE warnings that the energy shock complicates the inflation outlook.",
-    "date": "14-17 July 2026"
+    "title": "Fed holds rates at 3.5%-3.75% amid hawkish dissent; dot plot lifts 2026 outlook",
+    "content": "The Fed's FOMC voted 9-3 on 29 July to hold its target rate at 3.50%-3.75%, with three regional presidents (Hammack, Kashkari, Logan) dissenting in favour of a hike, citing inflation persistently above the 2% target. Officials' updated dot plot lifted the expected year-end 2026 range to 3.6%-4.1% from 3.25%-3.75% previously, with markets now pricing two 25bp hikes, in September and December. Equities sold off on the hawkish shift: the Dow fell around 1.5%, while the S&P 500 and Nasdaq slid roughly 0.6%. The 10-year UST yield rose 5bp to 4.657% and the 30-year climbed over 9bp to 5.193%, steepening the curve as short-dated yields eased.",
+    "date": "29 July 2026"
   },
   {
     "id": "2",
-    "title": "Global Chip Stocks Slump as China's Kimi K3 Model Stokes AI-Spend Doubts",
-    "content": "Chinese startup Moonshot AI unveiled Kimi K3, a 2.8trn-parameter open-weight model rivalling top US systems, on 17 July 2026, triggering a global chip-stock rout reminiscent of 2025's DeepSeek shock. The Philadelphia Semiconductor Index fell over 20% from its June peak, Taiwan's market dropped 6% and Japan's 4%; Nvidia slid as much as 5% intraday before paring losses, while TSMC fell 7% despite reporting a 77% jump in quarterly operating profit. The Nasdaq Composite ended the week down 2.9% and the S&P 500 off 1.6%. The selloff reflected concern that cheaper frontier AI models could undercut demand assumptions underpinning years of heavy capex in AI infrastructure and high-end chips.",
-    "date": "17 July 2026"
+    "title": "Brent surges above $90 as US-Iran conflict reignites, on track for ~20% July gain",
+    "content": "Oil prices swung sharply through the week as US-Iran hostilities resumed. Brent fell 8.7% to $88.36/bbl and WTI dropped 7.5% to $82.61 on 27 July after Iran signalled a pause in attacks, but prices reversed once Washington reported intercepting an Iranian strike and President Trump threatened retaliation. By 29 July, Brent had rallied 7.9% to $90.74 and WTI 6.6% to $84.46, leaving Brent on track for a monthly gain of more than 20%, its best month in over two years. The volatility underscores renewed geopolitical risk to Middle East energy supply and adds to inflation concerns ahead of central bank decisions.",
+    "date": "27-29 July 2026"
   },
   {
     "id": "3",
-    "title": "US June CPI Cools Sharply to 3.5%, Fed Rate-Hike Bets Pared Back",
-    "content": "US CPI data released 14 July 2026 showed headline inflation fell 0.4% m/m, the steepest monthly drop since April 2020, taking the annual rate to 3.5% versus a 3.8% forecast and May's 4.2%. Core CPI was flat m/m at 2.6% y/y, also below consensus. A 5.7% monthly slide in energy prices, linked to the earlier Middle East ceasefire window, drove the surprise. UST yields fell, with the 10-year easing to around 4.58% and the 2-year to about 4.19%, as traders trimmed bets on a hike at the 31 July FOMC meeting, though a September move stayed priced near 60%. The USD eased on the repricing.",
-    "date": "14 July 2026"
+    "title": "Eurozone GDP growth accelerates to 0.4% in Q2, beating forecasts",
+    "content": "Eurostat's preliminary flash estimate, published 30 July, showed euro area GDP rose 0.4% quarter-on-quarter in Q2 2026 (0.5% across the EU), comfortably beating consensus forecasts of around 0.2% and marking the bloc's strongest quarterly growth in a year. Annual growth reached 1.0% in the euro area and 1.2% in the EU. Germany, France and Italy each grew 0.2% q/q, while Spain outperformed with 0.7% growth, aided partly by resilience to the oil-price shock from Middle East tensions. Consumer spending, government investment and business activity offset ongoing geopolitical and energy headwinds, adding to the case that the ECB has room to hold rates steady near-term.",
+    "date": "30 July 2026"
   }
 ]
