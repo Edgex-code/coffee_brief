@@ -1,20 +1,20 @@
 [
   {
     "id": "1",
-    "title": "Fed holds rates at 3.5%-3.75% amid hawkish dissent; dot plot lifts 2026 outlook",
-    "content": "The Fed's FOMC voted 9-3 on 29 July to hold its target rate at 3.50%-3.75%, with three regional presidents (Hammack, Kashkari, Logan) dissenting in favour of a hike, citing inflation persistently above the 2% target. Officials' updated dot plot lifted the expected year-end 2026 range to 3.6%-4.1% from 3.25%-3.75% previously, with markets now pricing two 25bp hikes, in September and December. Equities sold off on the hawkish shift: the Dow fell around 1.5%, while the S&P 500 and Nasdaq slid roughly 0.6%. The 10-year UST yield rose 5bp to 4.657% and the 30-year climbed over 9bp to 5.193%, steepening the curve as short-dated yields eased.",
-    "date": "29 July 2026"
+    "title": "US payrolls fall 23,000 in July, denting Fed hike bets; stocks hit records",
+    "content": "US non-farm payrolls fell by 23,000 in July, data released 7 August showed, confounding forecasts for a roughly 83,000-95,000 gain and reversing June's revised 20,000 rise; May and June were revised down by a combined 103,000. Unemployment eased to 4.1% from 4.2%, mostly reflecting a lower participation rate, while average hourly earnings growth slowed to 3.2% y/y, the weakest since May 2021. Markets read the report as reducing pressure on the Fed to tighten further: the S&P 500 rose 0.6% and the Nasdaq 1.3% to fresh records, the 10-year UST yield eased to around 4.64% from 4.67%, the dollar weakened and gold rallied as traders cut the odds of a September hike to about 44% from 58%.",
+    "date": "7 August 2026"
   },
   {
     "id": "2",
-    "title": "Brent surges above $90 as US-Iran conflict reignites, on track for ~20% July gain",
-    "content": "Oil prices swung sharply through the week as US-Iran hostilities resumed. Brent fell 8.7% to $88.36/bbl and WTI dropped 7.5% to $82.61 on 27 July after Iran signalled a pause in attacks, but prices reversed once Washington reported intercepting an Iranian strike and President Trump threatened retaliation. By 29 July, Brent had rallied 7.9% to $90.74 and WTI 6.6% to $84.46, leaving Brent on track for a monthly gain of more than 20%, its best month in over two years. The volatility underscores renewed geopolitical risk to Middle East energy supply and adds to inflation concerns ahead of central bank decisions.",
-    "date": "27-29 July 2026"
+    "title": "Oil whipsaws as Iran-Oman Hormuz deal talks falter; Brent holds near $83",
+    "content": "Oil prices whipsawed this week on on-off hopes for a US-brokered deal easing shipping restrictions through the Strait of Hormuz. Brent fell over 6% to below $79/bbl around 3-5 August as Iran and Oman appeared close to an agreement, before rebounding after Tehran published a draft plan on 6 August imposing restrictive conditions, including bans on US and Israeli vessels and penalties on other transiting ships. Brent settled around $83.50/bbl and WTI near $78/bbl by 7 August, leaving crude little changed on the week overall. US officials said a deal could still be reached, but the volatility highlighted lingering geopolitical risk to Gulf energy supply and the inflation outlook.",
+    "date": "3-7 August 2026"
   },
   {
     "id": "3",
-    "title": "Eurozone GDP growth accelerates to 0.4% in Q2, beating forecasts",
-    "content": "Eurostat's preliminary flash estimate, published 30 July, showed euro area GDP rose 0.4% quarter-on-quarter in Q2 2026 (0.5% across the EU), comfortably beating consensus forecasts of around 0.2% and marking the bloc's strongest quarterly growth in a year. Annual growth reached 1.0% in the euro area and 1.2% in the EU. Germany, France and Italy each grew 0.2% q/q, while Spain outperformed with 0.7% growth, aided partly by resilience to the oil-price shock from Middle East tensions. Consumer spending, government investment and business activity offset ongoing geopolitical and energy headwinds, adding to the case that the ECB has room to hold rates steady near-term.",
-    "date": "30 July 2026"
+    "title": "Wall Street hits fresh records as Dow tops 54,000 on strong Q2 earnings",
+    "content": "US equities rallied to record highs this week, extending gains from a strong Q2 earnings season. The Dow Jones Industrial Average climbed above 54,000 for the first time on 3 August, up around 1.7% on the day, while the S&P 500 gained a similar amount to close near 7,737 and the Nasdaq Composite rose over 2.5%. Semiconductor and AI-linked stocks led the advance after hyperscalers' results eased concerns over data-centre capital spending, with roughly 80% of Nasdaq volume and 70% of NYSE volume in advancing shares. The rally broadened further on 7 August after the weaker-than-expected jobs report reinforced hopes the Fed will hold off on further tightening.",
+    "date": "3-7 August 2026"
   }
 ]
