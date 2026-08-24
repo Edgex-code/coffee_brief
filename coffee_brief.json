@@ -1,20 +1,20 @@
 [
   {
     "id": "1",
-    "title": "Global bond sell-off: 30-year UST yields hit highest since 2007, gilts since 1998",
-    "content": "A fresh global sell-off in long-dated government bonds pushed the 30-year UST yield to around 5.3% this week (17-21 August 2026), the highest since 2007, while the UK 30-year gilt yield climbed to roughly 5.8%, its highest since 1998; German Bunds were also hit. The rout was driven by heavy long-dated debt issuance, persistent above-target inflation and a fresh Middle East oil shock after a ceasefire window lapsed and Gulf shipping came under attack. The US Treasury said it would at least double long-dated debt buybacks to $4bn per operation to steady the market. Equities wobbled as yields rose before a Friday rebound left the S&P 500 higher on the day but lower on the week.",
-    "date": "17-21 August 2026"
+    "title": "Global bond sell-off sends 30-year UST yield to a 19-year high",
+    "content": "A global bond sell-off intensified this week as the 30-year US Treasury yield surged to **5.33%**, its highest level in 19 years, while Japan's 10-year JGB yield also climbed to a three-decade high. The move came as gross US federal debt topped **$40 trillion** for the first time, with the fiscal year-to-date deficit already near $1.8 trillion, deepening investor unease over Washington's borrowing trajectory.\n\nSticky inflation, elevated oil prices and uncertainty over new Fed chair Kevin Warsh's policy approach added to the pressure, pushing the 10-year yield toward **4.75%**. Equities wobbled as higher long-end yields squeezed valuations, underlining how fiscal strain has become a cross-asset story reaching well beyond the Treasury market.",
+    "date": "18 August 2026"
   },
   {
     "id": "2",
-    "title": "Trump declares 'economic warfare' on Iran, Brent jumps near $94 on Hormuz fears",
-    "content": "US President Trump said on 19 August 2026 that Washington was launching what he called the \"most crushing economic operation ever taken against any country\" against Iran, with Treasury Secretary Bessent vowing to squeeze Iran's economy and warning any nation aiding Tehran's sanctions evasion would face severe penalties. Brent crude jumped over 2% to close near $94/bbl, having risen more than 3% intraday, as Strait of Hormuz transits fell towards zero and Iranian crude's pricing flipped from a discount to a premium versus Brent. The escalation compounds inflation risks already troubling the Fed, ECB and BoE, and was a key driver of the week's broader government bond sell-off.",
-    "date": "19-20 August 2026"
+    "title": "Brent gives back gains as US readies 'economic warfare' on Iran",
+    "content": "Brent crude fell **1.4%** to around **$93/bbl** on Monday, giving back part of a two-week rally, as traders awaited details of a sweeping US sanctions package against Iran. President Trump has vowed an 'economic warfare' campaign alongside a continued blockade of the Strait of Hormuz, while Treasury Secretary Scott Bessent promised an 'economic D-Day' for Tehran, with shipping through the strait still far below normal.\n\nWTI slipped to around $85.70/bbl, with Monday's fall reflecting profit-taking after Brent's advance toward **$95/bbl** last week rather than any easing of risk. Analysts said the standoff still threatens a supply shock that could reignite the inflation pressures already unsettling bond markets.",
+    "date": "24 August 2026"
   },
   {
     "id": "3",
-    "title": "Fed minutes show most hawkish FOMC split since 2016 as dissent builds for Sept",
-    "content": "Minutes from the Fed's 28-29 July meeting, released 19 August 2026, confirmed the FOMC voted 9-3 to hold rates at 3.50-3.75%, with three regional presidents (Cleveland, Minneapolis, Dallas) dissenting in favour of a quarter-point hike, the most dissents since September 2016. Minutes showed \"many participants\" judged further tightening would likely be needed if inflation stayed elevated, with some officials doubting financial conditions were tight enough to return inflation to the 2% target. Market-implied odds of a September hike initially rose before easing on weaker payrolls and softer core inflation, adding to a volatile week for UST yields and the USD ahead of the Fed's Jackson Hole symposium.",
-    "date": "19 August 2026"
+    "title": "Wall Street posts weekly loss as bond volatility bites; bitcoin soars",
+    "content": "US equities booked a second straight weekly loss, with the S&P 500 down **1.4%**, the Nasdaq off **2.5%** and the Dow shedding 1.8% over the week, as surging Treasury yields undercut risk appetite. Stocks staged a partial recovery on Friday, with the Dow rallying around 1% and the S&P 500 and Nasdaq each adding roughly 0.4%.\n\nBitcoin bucked the trend, surging to around **$77,000** for its best week in two years, as some investors rotated into crypto amid the bond market turmoil. The divergence points to fragile sentiment: rate-sensitive equities remain vulnerable to further yield spikes even as pockets of risk appetite persist.",
+    "date": "21 August 2026"
   }
 ]
