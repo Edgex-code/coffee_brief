@@ -1,20 +1,20 @@
 [
   {
     "id": "1",
-    "title": "Global bond sell-off: 30-year UST yields hit highest since 2007, gilts since 1998",
-    "content": "A fresh global sell-off in long-dated government bonds pushed the 30-year UST yield to around 5.3% this week (17-21 August 2026), the highest since 2007, while the UK 30-year gilt yield climbed to roughly 5.8%, its highest since 1998; German Bunds were also hit. The rout was driven by heavy long-dated debt issuance, persistent above-target inflation and a fresh Middle East oil shock after a ceasefire window lapsed and Gulf shipping came under attack. The US Treasury said it would at least double long-dated debt buybacks to $4bn per operation to steady the market. Equities wobbled as yields rose before a Friday rebound left the S&P 500 higher on the day but lower on the week.",
-    "date": "17-21 August 2026"
+    "title": "Fed's Warsh strikes hawkish tone on inflation at Jackson Hole, yields jump",
+    "content": "Federal Reserve Chair Kevin Warsh delivered a hawkish keynote at the Jackson Hole symposium on 28 August 2026, warning that underlying inflation trends have not meaningfully improved despite softer summer CPI and PCE readings. His remarks reopened the possibility of a rate hike rather than the September cut markets had priced in. The speech followed data showing core PCE inflation held at 3.3% year-on-year in July, with spending stalling — giving the Fed some near-term room but doing little to ease Warsh's concerns about entrenched price pressures.\n\nTreasury yields jumped on the remarks, with the two-year yield rising more than 12bp to **4.36%** and the 10-year up to **4.73%**. The dollar index extended its rebound to **99.67**, having touched a three-month low a week earlier. Equities initially wobbled before closing higher as investors repriced the odds of a September move.",
+    "date": "28 August 2026"
   },
   {
     "id": "2",
-    "title": "Trump declares 'economic warfare' on Iran, Brent jumps near $94 on Hormuz fears",
-    "content": "US President Trump said on 19 August 2026 that Washington was launching what he called the \"most crushing economic operation ever taken against any country\" against Iran, with Treasury Secretary Bessent vowing to squeeze Iran's economy and warning any nation aiding Tehran's sanctions evasion would face severe penalties. Brent crude jumped over 2% to close near $94/bbl, having risen more than 3% intraday, as Strait of Hormuz transits fell towards zero and Iranian crude's pricing flipped from a discount to a premium versus Brent. The escalation compounds inflation risks already troubling the Fed, ECB and BoE, and was a key driver of the week's broader government bond sell-off.",
-    "date": "19-20 August 2026"
+    "title": "Nvidia's blockbuster earnings send Nasdaq, chip stocks surging",
+    "content": "Nvidia trounced Wall Street forecasts in its fiscal second-quarter results, released after the close on 26 August 2026, with revenue more than doubling year-on-year on relentless AI-chip demand. Management guided to roughly 70% revenue growth for fiscal 2028, well above the 44% analysts at LSEG had pencilled in, reassuring investors that AI infrastructure spending shows no sign of slowing.\n\nNvidia shares jumped **8.7%**, lifting the Nasdaq Composite **1.6%** to a fresh high and the S&P 500 **0.7%**. The rally spread across the semiconductor supply chain, with Broadcom up 4.5% and Intel up 4%, while chip stocks in Japan and South Korea also gained, underscoring the AI trade's continued grip on global equity sentiment.",
+    "date": "26 August 2026"
   },
   {
     "id": "3",
-    "title": "Fed minutes show most hawkish FOMC split since 2016 as dissent builds for Sept",
-    "content": "Minutes from the Fed's 28-29 July meeting, released 19 August 2026, confirmed the FOMC voted 9-3 to hold rates at 3.50-3.75%, with three regional presidents (Cleveland, Minneapolis, Dallas) dissenting in favour of a quarter-point hike, the most dissents since September 2016. Minutes showed \"many participants\" judged further tightening would likely be needed if inflation stayed elevated, with some officials doubting financial conditions were tight enough to return inflation to the 2% target. Market-implied odds of a September hike initially rose before easing on weaker payrolls and softer core inflation, adding to a volatile week for UST yields and the USD ahead of the Fed's Jackson Hole symposium.",
-    "date": "19 August 2026"
+    "title": "US-Canada trade war escalates as 50% tariffs take hold",
+    "content": "Trade talks between Washington and Ottawa collapsed on 22 August 2026, triggering US tariffs of **50%** on roughly $20bn of Canadian goods spanning dairy, alcohol, appliances and building materials. Canada responded on 25 August with retaliatory tariffs on more than 700 US products, due to take effect on 8 September, with Prime Minister Mark Carney vowing to match the levies \"dollar for dollar\" and declaring Canada effectively at war with the US economically.\n\nThe Canadian dollar slipped as much as **0.7%** to around **C$1.385** per USD, the weakest performance among G10 currencies, though losses proved fairly contained. Toronto's S&P/TSX composite swung between gains and losses before closing little changed, while the Dow Jones rose modestly; investors read the muted reaction as a sign a near-term trade deal remains unlikely.",
+    "date": "22-25 August 2026"
   }
 ]
