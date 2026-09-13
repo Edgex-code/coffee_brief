@@ -1,20 +1,20 @@
 [
   {
     "id": "1",
-    "title": "Global bond sell-off drives US, Japanese, German yields to multi-decade highs",
-    "content": "Government bond yields surged to multi-decade highs across major markets in the week to 4 September 2026. The US 10-year Treasury yield topped **4.82%**, its highest since January 2025, while Japan's 10-year JGB yield reached **3.02%**, a level last seen in 1996, and German Bund and French OAT yields hit their highest since 2011 and 2008 respectively.\n\nRising oil prices, sticky inflation and mounting bets on a Fed rate hike this month drove the sell-off, which pushed borrowing costs higher globally and weighed on rate-sensitive equities. The synchronised move marks a stark reversal from the ultra-low-yield era and underscores investor concern that inflation, not growth, is now the dominant risk facing major central banks.",
-    "date": "2 September 2026"
+    "title": "US 10-year yield nears 5% as hot CPI cements Fed rate-hike bets",
+    "content": "The US 10-year Treasury yield climbed to **4.98%** on 11 September 2026, its highest since 2023 and within sight of the psychologically important 5% threshold, after August CPI data reinforced expectations of further Fed tightening. Headline CPI held at 3.4% year-on-year as forecast, but core CPI rose 0.3% month-on-month, above the 0.2% consensus, while producer prices also ran hot.\n\nMoney markets raised the odds of a 25bp hike at the Fed's 15-16 September meeting to **88%**, from 71% before the data. The synchronised rise in borrowing costs pressured rate-sensitive equities and added to a broader global bond sell-off already under way.",
+    "date": "11 September 2026"
   },
   {
     "id": "2",
-    "title": "US payrolls beat forecasts by threefold, reviving Fed hike bets for September",
-    "content": "US nonfarm payrolls rose by **162,000** in August, far above the 53,000 forecast and the strongest monthly gain since March, Bureau of Labor Statistics data showed on 4 September 2026. The unemployment rate held at 4.1%, in line with expectations, while average hourly earnings rose 3.1% year-on-year; June and July payrolls were revised up by a combined 55,000, adding to signs of underlying labour-market resilience.\n\nThe surprise strength pushed fed funds futures-implied odds of a hike at the 15-16 September FOMC meeting to roughly **58-65%**, up sharply from around 50% beforehand, while the 2-year UST yield rose and the USD strengthened. Equities fell, led by rate-sensitive growth and technology names, as investors repriced the odds that the Fed's next move could be a hike rather than a cut.",
-    "date": "4 September 2026"
+    "title": "Brent tops $100/bbl as US-Iran tanker war escalates in Hormuz",
+    "content": "Brent crude broke above **$100/bbl** on 9 September 2026 for the first time since July, extending a rally fuelled by escalating US-Iran clashes around the Strait of Hormuz. WTI surged as much as 7% to around **$103/bbl**, its highest since May, after US forces struck three Iranian oil tankers on 5 September under a new tanker-for-tanker policy, prompting Iranian strikes on vessels and a missile attack on US warships in the Gulf.\n\nThe escalation has stoked fears of disruption to a chokepoint carrying roughly a fifth of global seaborne oil, compounding inflation pressures and adding to bets on further central bank tightening; energy shares rallied while broader risk sentiment weakened.",
+    "date": "9 September 2026"
   },
   {
     "id": "3",
-    "title": "Brent nears $97 as US-Iran strikes reignite Strait of Hormuz fears",
-    "content": "Brent crude jumped toward **$97/bbl** this week, on track for a roughly 8% weekly gain, after the US carried out fresh strikes against Iran on 1 September 2026, its first such action in about a month, prompting Tehran to retaliate against American bases and vessels transiting the Strait of Hormuz. WTI crude also rose, briefly topping **$90/bbl**, its highest level in weeks.\n\nThe renewed escalation threatens a key artery for global energy supply, through which roughly a quarter of the world's seaborne crude oil normally passes, and adds fresh upside risk to inflation just as central banks weigh their next moves. Higher oil prices have been a key driver of this week's broader sell-off in government bonds and added to pressure on risk assets, with equities and the euro and sterling softening against a firmer dollar.",
-    "date": "3 September 2026"
+    "title": "Wall Street posts worst four-day skid since June before Friday bounce",
+    "content": "The S&P 500 fell for a fourth straight session on 10 September 2026, its longest losing streak since June, closing at its lowest level since July as the Nasdaq 100 dropped 1.1%; for the week, the Dow, S&P 500 and Nasdaq Composite fell **1.6%**, **0.8%** and 0.7% respectively. Surging oil prices and Treasury yields nearing 5% drove the declines, reviving fears the Fed could resume raising rates.\n\nSentiment turned on Friday as in-line August CPI and a pullback in oil allowed the S&P 500 to rise **0.29%**, snapping the losing streak, though investors remained cautious ahead of the Fed's 16 September decision.",
+    "date": "11 September 2026"
   }
 ]
