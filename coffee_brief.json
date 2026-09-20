@@ -1,20 +1,20 @@
 [
   {
     "id": "1",
-    "title": "US 10-year yield nears 5% as hot CPI cements Fed rate-hike bets",
-    "content": "The US 10-year Treasury yield climbed to **4.98%** on 11 September 2026, its highest since 2023 and within sight of the psychologically important 5% threshold, after August CPI data reinforced expectations of further Fed tightening. Headline CPI held at 3.4% year-on-year as forecast, but core CPI rose 0.3% month-on-month, above the 0.2% consensus, while producer prices also ran hot.\n\nMoney markets raised the odds of a 25bp hike at the Fed's 15-16 September meeting to **88%**, from 71% before the data. The synchronised rise in borrowing costs pressured rate-sensitive equities and added to a broader global bond sell-off already under way.",
-    "date": "11 September 2026"
+    "title": "Fed hikes rates to 3.75%-4% in first increase since 2023",
+    "content": "The Federal Reserve raised its benchmark interest rate by 25 basis points to a target range of **3.75%-4%** on 16 September 2026, its first hike since 2023, with all 12 voting members backing the move. The decision followed hotter-than-expected CPI and PPI data and a bond sell-off that had pushed the 10-year Treasury yield above 5%. In its updated dot plot, 16 of 18 officials signalled at least one further hike by year-end, with the median projection at **4.00%-4.25%**.\n\nChair Kevin Warsh said inflation \"remains too high\" and that the Fed is \"serious about delivering price stability,\" offering little near-term relief. Equities swung on the announcement before steadying, while Treasury yields stayed elevated as markets priced a more prolonged tightening cycle extending into 2027.",
+    "date": "16 September 2026"
   },
   {
     "id": "2",
-    "title": "Brent tops $100/bbl as US-Iran tanker war escalates in Hormuz",
-    "content": "Brent crude broke above **$100/bbl** on 9 September 2026 for the first time since July, extending a rally fuelled by escalating US-Iran clashes around the Strait of Hormuz. WTI surged as much as 7% to around **$103/bbl**, its highest since May, after US forces struck three Iranian oil tankers on 5 September under a new tanker-for-tanker policy, prompting Iranian strikes on vessels and a missile attack on US warships in the Gulf.\n\nThe escalation has stoked fears of disruption to a chokepoint carrying roughly a fifth of global seaborne oil, compounding inflation pressures and adding to bets on further central bank tightening; energy shares rallied while broader risk sentiment weakened.",
-    "date": "9 September 2026"
+    "title": "BoE holds rates at 3.75%, diverging from Fed and ECB hikes",
+    "content": "The Bank of England kept Bank Rate at **3.75%** on 17 September 2026, a sixth straight hold, as the MPC voted 6-3 against three members who wanted a 25bp rise. The decision put the BoE at odds with both the Fed, which had hiked a day earlier, and the ECB, which raised its deposit rate to 2.5% on 10 September. UK CPI rose to 3.1% in August, and the BoE paused all gilt sales until April 2027 while ending long-dated gilt sales permanently.\n\nSterling fell broadly after the announcement, with GBP/USD testing lows near **1.3360**, while the 30-year gilt yield dropped more than 10bp on the QT overhaul. The BoE signalled a \"hawkish pause,\" leaving the door open to further tightening if energy-driven inflation persists into next year.",
+    "date": "17 September 2026"
   },
   {
     "id": "3",
-    "title": "Wall Street posts worst four-day skid since June before Friday bounce",
-    "content": "The S&P 500 fell for a fourth straight session on 10 September 2026, its longest losing streak since June, closing at its lowest level since July as the Nasdaq 100 dropped 1.1%; for the week, the Dow, S&P 500 and Nasdaq Composite fell **1.6%**, **0.8%** and 0.7% respectively. Surging oil prices and Treasury yields nearing 5% drove the declines, reviving fears the Fed could resume raising rates.\n\nSentiment turned on Friday as in-line August CPI and a pullback in oil allowed the S&P 500 to rise **0.29%**, snapping the losing streak, though investors remained cautious ahead of the Fed's 16 September decision.",
-    "date": "11 September 2026"
+    "title": "Wall Street logs second losing week as 10-year yield tops 5%",
+    "content": "US equities closed a volatile week to 18 September 2026 with the Dow down around **1.5%**, its worst week since March, while the S&P 500 slipped roughly 0.1% for a second straight weekly decline. The 10-year Treasury yield touched **5.04%** intraweek, its highest since 2007, as the Fed's rate hike and oil prices near a four-month high of **$106/bbl** compounded pressure on risk assets.\n\nRate-sensitive and AI-linked tech shares were among the hardest hit, though a Thursday rebound, the Nasdaq 100's best day in six weeks, limited losses. Strategists flagged the 5% threshold on the 10-year as one that has historically preceded a more durable equity headwind.",
+    "date": "18 September 2026"
   }
 ]
