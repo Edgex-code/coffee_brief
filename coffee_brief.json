@@ -1,20 +1,20 @@
 [
   {
     "id": "1",
-    "title": "Fed hikes rates to 3.75%-4% in first increase since 2023",
-    "content": "The Federal Reserve raised its benchmark interest rate by 25 basis points to a target range of **3.75%-4%** on 16 September 2026, its first hike since 2023, with all 12 voting members backing the move. The decision followed hotter-than-expected CPI and PPI data and a bond sell-off that had pushed the 10-year Treasury yield above 5%. In its updated dot plot, 16 of 18 officials signalled at least one further hike by year-end, with the median projection at **4.00%-4.25%**.\n\nChair Kevin Warsh said inflation \"remains too high\" and that the Fed is \"serious about delivering price stability,\" offering little near-term relief. Equities swung on the announcement before steadying, while Treasury yields stayed elevated as markets priced a more prolonged tightening cycle extending into 2027.",
-    "date": "16 September 2026"
+    "title": "US Treasury sell-off deepens, 10-year yield hits 19-year high post-Fed hike",
+    "content": "The bond-market rout that followed the Fed's first rate hike since 2023 intensified through the week, with the 10-year US Treasury yield jumping to **5.22%** on 24 September 2026, its highest since 2007, and the 30-year touching 5.50%, a level last seen in 2004. The Fed had raised its target range by 25bp to **3.75%-4.00%** on 16 September in a unanimous 12-0 vote, with Chair Kevin Warsh warning that underlying inflation remains too high.\n\nTraders priced better than a **75%** chance of a further hike in October, and stronger-than-expected economic data and high oil prices added to selling pressure across the curve. Higher borrowing costs weighed on rate-sensitive sectors, though equities largely shrugged off the move on the week.",
+    "date": "24 September 2026"
   },
   {
     "id": "2",
-    "title": "BoE holds rates at 3.75%, diverging from Fed and ECB hikes",
-    "content": "The Bank of England kept Bank Rate at **3.75%** on 17 September 2026, a sixth straight hold, as the MPC voted 6-3 against three members who wanted a 25bp rise. The decision put the BoE at odds with both the Fed, which had hiked a day earlier, and the ECB, which raised its deposit rate to 2.5% on 10 September. UK CPI rose to 3.1% in August, and the BoE paused all gilt sales until April 2027 while ending long-dated gilt sales permanently.\n\nSterling fell broadly after the announcement, with GBP/USD testing lows near **1.3360**, while the 30-year gilt yield dropped more than 10bp on the QT overhaul. The BoE signalled a \"hawkish pause,\" leaving the door open to further tightening if energy-driven inflation persists into next year.",
-    "date": "17 September 2026"
+    "title": "Brent eases from war highs as Iran floats Strait of Hormuz reopening",
+    "content": "Brent crude, which had spiked above **$100/bbl** earlier in September after US-Iran strikes hit Saudi Aramco infrastructure, fell **2.1%** to settle near **$104/bbl** on 25 September 2026. The drop followed a proposal from Iran's foreign minister to reopen the Strait of Hormuz and resume nuclear talks within seven days, in exchange for the US lifting its naval blockade and unfreezing Iranian assets.\n\nThe pullback offered some relief on the inflation front that had complicated the Fed's rate decision earlier in the week, though traders cautioned gains could reverse quickly given the fragility of the talks and the risk of renewed attacks on regional energy infrastructure.",
+    "date": "25 September 2026"
   },
   {
     "id": "3",
-    "title": "Wall Street logs second losing week as 10-year yield tops 5%",
-    "content": "US equities closed a volatile week to 18 September 2026 with the Dow down around **1.5%**, its worst week since March, while the S&P 500 slipped roughly 0.1% for a second straight weekly decline. The 10-year Treasury yield touched **5.04%** intraweek, its highest since 2007, as the Fed's rate hike and oil prices near a four-month high of **$106/bbl** compounded pressure on risk assets.\n\nRate-sensitive and AI-linked tech shares were among the hardest hit, though a Thursday rebound, the Nasdaq 100's best day in six weeks, limited losses. Strategists flagged the 5% threshold on the 10-year as one that has historically preceded a more durable equity headwind.",
-    "date": "18 September 2026"
+    "title": "Wall Street ends winning week as AI rally offsets bond-yield surge",
+    "content": "US equities snapped a two-week losing run as an AI-led rally overshadowed the bond sell-off. The Dow rose **478** points, or **0.9%**, on Friday to 51,828.62, while the S&P 500 added 0.5% to 7,743.41 and the Nasdaq Composite gained 0.5% to a record 27,068.72 on 25 September 2026, led by megacap technology names.\n\nThe Russell 2000 fell on the week even as large-cap benchmarks notched their first weekly gain in three, underscoring a narrow, megacap-led advance. Investors flagged the divergence as a risk, with the 10-year Treasury yield hovering near **5.2%**, its highest in nearly two decades.",
+    "date": "25 September 2026"
   }
 ]
