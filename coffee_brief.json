@@ -1,20 +1,20 @@
 [
   {
     "id": "1",
-    "title": "US Treasury sell-off deepens, 10-year yield hits 19-year high post-Fed hike",
-    "content": "The bond-market rout that followed the Fed's first rate hike since 2023 intensified through the week, with the 10-year US Treasury yield jumping to **5.22%** on 24 September 2026, its highest since 2007, and the 30-year touching 5.50%, a level last seen in 2004. The Fed had raised its target range by 25bp to **3.75%-4.00%** on 16 September in a unanimous 12-0 vote, with Chair Kevin Warsh warning that underlying inflation remains too high.\n\nTraders priced better than a **75%** chance of a further hike in October, and stronger-than-expected economic data and high oil prices added to selling pressure across the curve. Higher borrowing costs weighed on rate-sensitive sectors, though equities largely shrugged off the move on the week.",
-    "date": "24 September 2026"
+    "title": "US payrolls miss badly, trimming odds of an October Fed hike",
+    "content": "US nonfarm payrolls rose by only **29,000** in September against a consensus of roughly 84,000, while the unemployment rate edged up to 4.2%. August was revised down to a gain of 133,000, and July and August were cut by a combined 60,000 jobs.\n\nUST yields retreated, with the 10-year falling about 6bp to **5.18%** after touching its highest level since 2002 earlier in the week, and the 2-year easing to around 4.73%. CME FedWatch showed the probability of an unchanged Fed decision in October rising to roughly 84%. Stock futures firmed, with Nasdaq benchmarks near record highs. The data complicates the Fed's inflation-fighting narrative, though elevated yields and oil prices limit the relief.",
+    "date": "02 October 2026"
   },
   {
     "id": "2",
-    "title": "Brent eases from war highs as Iran floats Strait of Hormuz reopening",
-    "content": "Brent crude, which had spiked above **$100/bbl** earlier in September after US-Iran strikes hit Saudi Aramco infrastructure, fell **2.1%** to settle near **$104/bbl** on 25 September 2026. The drop followed a proposal from Iran's foreign minister to reopen the Strait of Hormuz and resume nuclear talks within seven days, in exchange for the US lifting its naval blockade and unfreezing Iranian assets.\n\nThe pullback offered some relief on the inflation front that had complicated the Fed's rate decision earlier in the week, though traders cautioned gains could reverse quickly given the fragility of the talks and the risk of renewed attacks on regional energy infrastructure.",
-    "date": "25 September 2026"
+    "title": "Global bond sell-off holds near multi-decade highs despite softer data",
+    "content": "Long-dated government bond yields hit fresh cycle highs this week, even after a benign inflation report and soft US jobs data. The 30-year UST yield reached roughly **5.6%**, its highest since 2002, according to reports, while 30-year gilt yields have traded near 5.9% and Japan's 10-year JGB yield has crossed 3% for the first time since 1996.\n\nDrivers cited include fiscal concerns in the UK and France, BoJ policy repricing and inflation fears linked to higher energy prices. Bund yields are also at their highest since 2011. Equities have been resilient, led by megacap technology, but rate-sensitive sectors and small caps remain pressured, and sustained higher term premia could tighten financial conditions globally.",
+    "date": "02 October 2026"
   },
   {
     "id": "3",
-    "title": "Wall Street ends winning week as AI rally offsets bond-yield surge",
-    "content": "US equities snapped a two-week losing run as an AI-led rally overshadowed the bond sell-off. The Dow rose **478** points, or **0.9%**, on Friday to 51,828.62, while the S&P 500 added 0.5% to 7,743.41 and the Nasdaq Composite gained 0.5% to a record 27,068.72 on 25 September 2026, led by megacap technology names.\n\nThe Russell 2000 fell on the week even as large-cap benchmarks notched their first weekly gain in three, underscoring a narrow, megacap-led advance. Investors flagged the divergence as a risk, with the 10-year Treasury yield hovering near **5.2%**, its highest in nearly two decades.",
-    "date": "25 September 2026"
+    "title": "Brent holds near $100/bbl as US-Iran talks and G7 reserve plans pull in opposite directions",
+    "content": "Brent crude rose about 0.4% to roughly **$102.70/bbl** on 2 October, having eased from last week's rally towards $104 as Pakistan-mediated US-Iran talks revived hopes of reopening the Strait of Hormuz. Doubts persist over whether the negotiations are viable.\n\nSeparately, the G7 agreed to consider releasing up to 100 million barrels of emergency oil and diesel reserves to ease fuel costs. Elevated energy prices remain a key driver of inflation expectations and the global bond sell-off, so any breakdown in talks or fresh attacks on regional infrastructure could quickly push crude higher, while a credible deal would likely ease pressure on yields and central banks.",
+    "date": "02 October 2026"
   }
 ]
