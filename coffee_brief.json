@@ -1,20 +1,20 @@
 [
   {
     "id": "1",
-    "title": "US payrolls miss badly, trimming odds of an October Fed hike",
-    "content": "US nonfarm payrolls rose by only **29,000** in September against a consensus of roughly 84,000, while the unemployment rate edged up to 4.2%. August was revised down to a gain of 133,000, and July and August were cut by a combined 60,000 jobs.\n\nUST yields retreated, with the 10-year falling about 6bp to **5.18%** after touching its highest level since 2002 earlier in the week, and the 2-year easing to around 4.73%. CME FedWatch showed the probability of an unchanged Fed decision in October rising to roughly 84%. Stock futures firmed, with Nasdaq benchmarks near record highs. The data complicates the Fed's inflation-fighting narrative, though elevated yields and oil prices limit the relief.",
-    "date": "02 October 2026"
+    "title": "UST 10-year yield hits 24-year high before strong auctions steady the market",
+    "content": "The 10-year UST yield touched about **5.36%** intraday on 7 October, its highest since 2002, as a global bond sell-off accelerated. The 10-year has risen roughly 60bp since the end of July on inflation and energy-price concerns, while the French 10-year yield jumped about 12bp on the day. The Treasury then sold $39bn of 10-year notes at **5.300%**, the highest auction yield since November 2000.\n\nDemand was firm, with above-average non-dealer bidding, and yields retreated from their highs. The 30-year auction on 8 October cleared at about **5.62%**, described as decent but weaker than the 10-year sale. By Friday the 10-year was below 5.25% and US equities posted weekly gains, but elevated term premia remain a risk for global financial conditions.",
+    "date": "07 October 2026"
   },
   {
     "id": "2",
-    "title": "Global bond sell-off holds near multi-decade highs despite softer data",
-    "content": "Long-dated government bond yields hit fresh cycle highs this week, even after a benign inflation report and soft US jobs data. The 30-year UST yield reached roughly **5.6%**, its highest since 2002, according to reports, while 30-year gilt yields have traded near 5.9% and Japan's 10-year JGB yield has crossed 3% for the first time since 1996.\n\nDrivers cited include fiscal concerns in the UK and France, BoJ policy repricing and inflation fears linked to higher energy prices. Bund yields are also at their highest since 2011. Equities have been resilient, led by megacap technology, but rate-sensitive sectors and small caps remain pressured, and sustained higher term premia could tighten financial conditions globally.",
-    "date": "02 October 2026"
+    "title": "Fed minutes point to another 2026 hike, but October odds fade",
+    "content": "Minutes of the Fed's 15–16 September meeting, published on 7 October, showed all participants backed the 25bp hike to a target range of **3.75%–4.00%**, the first increase since 2023. Most officials judged that another rise would likely be appropriate by year-end, with several viewing policy as only mildly restrictive or not restrictive. Some framed the move as insurance against persistent inflation and energy-driven price pressure.\n\nSubsequent data softened the near-term case: futures priced only about a **17–25%** chance of a hike at the 27–28 October meeting, while a December move is seen as more likely. September CPI, due on 14 October, is expected around 3.6–3.7% year on year, and a hot print would keep UST yields under upward pressure.",
+    "date": "07 October 2026"
   },
   {
     "id": "3",
-    "title": "Brent holds near $100/bbl as US-Iran talks and G7 reserve plans pull in opposite directions",
-    "content": "Brent crude rose about 0.4% to roughly **$102.70/bbl** on 2 October, having eased from last week's rally towards $104 as Pakistan-mediated US-Iran talks revived hopes of reopening the Strait of Hormuz. Doubts persist over whether the negotiations are viable.\n\nSeparately, the G7 agreed to consider releasing up to 100 million barrels of emergency oil and diesel reserves to ease fuel costs. Elevated energy prices remain a key driver of inflation expectations and the global bond sell-off, so any breakdown in talks or fresh attacks on regional infrastructure could quickly push crude higher, while a credible deal would likely ease pressure on yields and central banks.",
-    "date": "02 October 2026"
+    "title": "Brent back above $100/bbl as Hormuz tanker attacks and US-Iran tensions flare",
+    "content": "Brent crude rose roughly 4–5% on 8 October to around **$105/bbl**, according to Euronews and Oilprice, as Iran stepped up attacks on tankers in the Strait of Hormuz. The Pentagon reportedly told US Central Command to finish preparations for a possible resumption of major combat operations, although no date has been set and President Trump said talks with Iran were productive. Earlier in the week prices had fallen after G7 members agreed to tap emergency stockpiles.\n\nBrent eased to about **$103–104/bbl** on 9 October as hopes of progress in the talks returned. Sustained high energy prices feed inflation expectations and have been cited as a driver of the global bond sell-off, so headlines on Hormuz remain a key swing factor for rates and central banks.",
+    "date": "08 October 2026"
   }
 ]
