@@ -1,20 +1,20 @@
 [
   {
     "id": "1",
-    "title": "UST 10-year yield hits 24-year high before strong auctions steady the market",
-    "content": "The 10-year UST yield touched about **5.36%** intraday on 7 October, its highest since 2002, as a global bond sell-off accelerated. The 10-year has risen roughly 60bp since the end of July on inflation and energy-price concerns, while the French 10-year yield jumped about 12bp on the day. The Treasury then sold $39bn of 10-year notes at **5.300%**, the highest auction yield since November 2000.\n\nDemand was firm, with above-average non-dealer bidding, and yields retreated from their highs. The 30-year auction on 8 October cleared at about **5.62%**, described as decent but weaker than the 10-year sale. By Friday the 10-year was below 5.25% and US equities posted weekly gains, but elevated term premia remain a risk for global financial conditions.",
-    "date": "07 October 2026"
+    "title": "Hot US CPI lifts Treasury yields and revives October Fed hike bets",
+    "content": "US consumer prices rose **3.7%** year on year in September, up from 3.4% in August and above the roughly 3.6% consensus, with higher gasoline prices the main driver. Core CPI rose 0.3% on the month and about 2.6% on the year, slightly ahead of forecasts, according to Axios and Yahoo Finance.\n\nThe 10-year UST yield rose to around **5.30%** after the release, while the 2-year climbed to about 4.87%; sources differ slightly on the size of the moves. CME FedWatch pricing for a hike at the 28 October FOMC meeting roughly doubled to **44–47%** from 22%. With the funds rate at 3.75%–4.00%, energy-led inflation keeps the Fed biased towards further tightening and USD supported.",
+    "date": "14 October 2026"
   },
   {
     "id": "2",
-    "title": "Fed minutes point to another 2026 hike, but October odds fade",
-    "content": "Minutes of the Fed's 15–16 September meeting, published on 7 October, showed all participants backed the 25bp hike to a target range of **3.75%–4.00%**, the first increase since 2023. Most officials judged that another rise would likely be appropriate by year-end, with several viewing policy as only mildly restrictive or not restrictive. Some framed the move as insurance against persistent inflation and energy-driven price pressure.\n\nSubsequent data softened the near-term case: futures priced only about a **17–25%** chance of a hike at the 27–28 October meeting, while a December move is seen as more likely. September CPI, due on 14 October, is expected around 3.6–3.7% year on year, and a hot print would keep UST yields under upward pressure.",
-    "date": "07 October 2026"
+    "title": "AI-led selloff hits chipmakers; Nasdaq 100 posts worst week since April 2025",
+    "content": "US tech stocks sold off sharply in the week to 16 October as doubts grew over AI financing and rising debt. The Nasdaq 100 fell about **5.5%**, its worst week since the April 2025 tariff turmoil, while the S&P 500 lost roughly 1.95%. Chipmakers fell for an eighth straight session, the longest run since 2008, and CoreWeave shares dropped about 25% on the week, per CNBC, CNN and Bloomberg.\n\nThe semiconductor index fell around **11%** on the week, though reports vary. Higher yields and oil above $100 compounded the pressure on long-duration growth stocks, and the DXY slipped towards 101.8. The rout tests the equity leadership that has supported US indices this year.",
+    "date": "16 October 2026"
   },
   {
     "id": "3",
-    "title": "Brent back above $100/bbl as Hormuz tanker attacks and US-Iran tensions flare",
-    "content": "Brent crude rose roughly 4–5% on 8 October to around **$105/bbl**, according to Euronews and Oilprice, as Iran stepped up attacks on tankers in the Strait of Hormuz. The Pentagon reportedly told US Central Command to finish preparations for a possible resumption of major combat operations, although no date has been set and President Trump said talks with Iran were productive. Earlier in the week prices had fallen after G7 members agreed to tap emergency stockpiles.\n\nBrent eased to about **$103–104/bbl** on 9 October as hopes of progress in the talks returned. Sustained high energy prices feed inflation expectations and have been cited as a driver of the global bond sell-off, so headlines on Hormuz remain a key swing factor for rates and central banks.",
-    "date": "08 October 2026"
+    "title": "Brent touches $110 as Iran escalates Hormuz tanker attacks",
+    "content": "Brent futures hit a session high of **$110/bbl** on 16 October, the first time since May, before settling near $109.86 as Iran stepped up attacks on ships in the Strait of Hormuz, according to CNBC. Brent had settled around $106 the previous session after IEA members agreed to complete the release of 100 million barrels of emergency stocks, Bloomberg reported.\n\nWTI gained about **10%** on the week to roughly $101. Hormuz crude exports remain well below pre-war levels, per Kpler data cited by CNBC. Persistent energy-driven inflation is pushing UST yields higher and complicating the path for the Fed, ECB and BoE, making Hormuz headlines a key swing factor for rates and EM importers.",
+    "date": "16 October 2026"
   }
 ]
