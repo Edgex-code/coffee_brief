@@ -1,20 +1,20 @@
 [
   {
     "id": "1",
-    "title": "Hot US CPI lifts Treasury yields and revives October Fed hike bets",
-    "content": "US consumer prices rose **3.7%** year on year in September, up from 3.4% in August and above the roughly 3.6% consensus, with higher gasoline prices the main driver. Core CPI rose 0.3% on the month and about 2.6% on the year, slightly ahead of forecasts, according to Axios and Yahoo Finance.\n\nThe 10-year UST yield rose to around **5.30%** after the release, while the 2-year climbed to about 4.87%; sources differ slightly on the size of the moves. CME FedWatch pricing for a hike at the 28 October FOMC meeting roughly doubled to **44–47%** from 22%. With the funds rate at 3.75%–4.00%, energy-led inflation keeps the Fed biased towards further tightening and USD supported.",
-    "date": "14 October 2026"
+    "title": "Brent settles at $116.72, a four-year high, as Middle East flare-up lifts yields",
+    "content": "Brent crude rose 3.1% on 23 October to settle at **$116.72/bbl**, its highest since June 2022, as renewed violence in the Middle East, including Houthi attacks on Saudi energy sites, and fears of renewed US-Iran fighting threatened supply, according to AP and Bloomberg. The Dow fell 1.2% and the S&P 500 lost 0.5% to **7,623.68**, with nearly three in four constituents lower.\n\nThe 10-year UST yield edged up to about **4.99%** from 4.96%, so stocks and bonds fell together as energy-led inflation worries outweighed their usual hedging relationship. Futures price a Fed hold on 28 October, though some sources imply a hike is still possible. BofA's Michael Hartnett said he stays tactically risk-off until mid-November, while UBS argues robust earnings should support equities.",
+    "date": "23 October 2026"
   },
   {
     "id": "2",
-    "title": "AI-led selloff hits chipmakers; Nasdaq 100 posts worst week since April 2025",
-    "content": "US tech stocks sold off sharply in the week to 16 October as doubts grew over AI financing and rising debt. The Nasdaq 100 fell about **5.5%**, its worst week since the April 2025 tariff turmoil, while the S&P 500 lost roughly 1.95%. Chipmakers fell for an eighth straight session, the longest run since 2008, and CoreWeave shares dropped about 25% on the week, per CNBC, CNN and Bloomberg.\n\nThe semiconductor index fell around **11%** on the week, though reports vary. Higher yields and oil above $100 compounded the pressure on long-duration growth stocks, and the DXY slipped towards 101.8. The rout tests the equity leadership that has supported US indices this year.",
-    "date": "16 October 2026"
+    "title": "Meta's AI spending shock triggers tech selloff, with Nvidia and the Nasdaq under pressure",
+    "content": "Meta shares fell roughly 7–8% on 22 October, their largest drop since July, after the company raised its annual spending forecast to $135–145 billion and said it would fund AI investment through a new nonvoting share class. It also reported its first negative free cash flow as a public company, according to Reuters and other outlets. Sources differ slightly on the size of the fall.\n\nThe selloff spread: Nvidia dropped about **4%** and the Nasdaq Composite was on track for its largest decline in four months. Meta's five-year CDS widened to a record **119.3bp**, a sign that credit investors are questioning the cost of AI funding. The Nasdaq 100 finished broadly flat on 23 October, but the episode keeps AI financing in focus after the sector's earlier sharp losses.",
+    "date": "22 October 2026"
   },
   {
     "id": "3",
-    "title": "Brent touches $110 as Iran escalates Hormuz tanker attacks",
-    "content": "Brent futures hit a session high of **$110/bbl** on 16 October, the first time since May, before settling near $109.86 as Iran stepped up attacks on ships in the Strait of Hormuz, according to CNBC. Brent had settled around $106 the previous session after IEA members agreed to complete the release of 100 million barrels of emergency stocks, Bloomberg reported.\n\nWTI gained about **10%** on the week to roughly $101. Hormuz crude exports remain well below pre-war levels, per Kpler data cited by CNBC. Persistent energy-driven inflation is pushing UST yields higher and complicating the path for the Fed, ECB and BoE, making Hormuz headlines a key swing factor for rates and EM importers.",
-    "date": "16 October 2026"
+    "title": "Euro zone PMI falls to four-month low as France contracts and ECB meeting nears",
+    "content": "The HCOB euro zone flash composite PMI fell to **51.9** in October from 53.1 in September, below the roughly 52.7 consensus and its weakest in four months, Reuters and FXStreet reported. Services slipped to 51.7 and manufacturing to 52.4, while France returned to contraction amid rising energy-driven input costs. S&P Global said the reading is consistent with GDP growth of about 0.3% quarter on quarter.\n\nFrench political turmoil also widened the OAT-Bund spread to a 15-year high, and the STOXX 600 closed down **0.31%** at 635.77, about 1.4% lower on the week, with Kering falling 16.6%. The data complicate the ECB's 29 October decision: it has hiked twice this year against oil-driven inflation, yet growth is now softening. The BoJ meets on 30 October and the BoE on 5 November.",
+    "date": "23 October 2026"
   }
 ]
