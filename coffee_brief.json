@@ -1,20 +1,20 @@
 [
   {
     "id": "1",
-    "title": "Brent settles at $116.72, a four-year high, as Middle East flare-up lifts yields",
-    "content": "Brent crude rose 3.1% on 23 October to settle at **$116.72/bbl**, its highest since June 2022, as renewed violence in the Middle East, including Houthi attacks on Saudi energy sites, and fears of renewed US-Iran fighting threatened supply, according to AP and Bloomberg. The Dow fell 1.2% and the S&P 500 lost 0.5% to **7,623.68**, with nearly three in four constituents lower.\n\nThe 10-year UST yield edged up to about **4.99%** from 4.96%, so stocks and bonds fell together as energy-led inflation worries outweighed their usual hedging relationship. Futures price a Fed hold on 28 October, though some sources imply a hike is still possible. BofA's Michael Hartnett said he stays tactically risk-off until mid-November, while UBS argues robust earnings should support equities.",
-    "date": "23 October 2026"
+    "title": "Fed holds at 3.75–4.00% with two dissents favouring a hike; 10-year UST yield above 5%",
+    "content": "The Fed left its target range unchanged at **3.75–4.00%** on 28 October in a 10–2 vote. Governor Lisa Cook and Cleveland Fed President Beth Hammack dissented in favour of a 25bp increase, a clear hawkish signal. The next FOMC meeting is on 9 December.\n\nTreasury yields rose after the decision, with the 10-year UST trading around **5.02–5.05%** and the 2-year near 4.7%, according to CNBC and CNN. Sources differ on closing levels. US equities ended higher, with the S&P 500 and Dow up for a third straight session, though the S&P 500 was volatile intraday. With oil elevated and two voters already favouring tightening, the debate is shifting from when to cut to whether a hike is needed.",
+    "date": "28 October 2026"
   },
   {
     "id": "2",
-    "title": "Meta's AI spending shock triggers tech selloff, with Nvidia and the Nasdaq under pressure",
-    "content": "Meta shares fell roughly 7–8% on 22 October, their largest drop since July, after the company raised its annual spending forecast to $135–145 billion and said it would fund AI investment through a new nonvoting share class. It also reported its first negative free cash flow as a public company, according to Reuters and other outlets. Sources differ slightly on the size of the fall.\n\nThe selloff spread: Nvidia dropped about **4%** and the Nasdaq Composite was on track for its largest decline in four months. Meta's five-year CDS widened to a record **119.3bp**, a sign that credit investors are questioning the cost of AI funding. The Nasdaq 100 finished broadly flat on 23 October, but the episode keeps AI financing in focus after the sector's earlier sharp losses.",
-    "date": "22 October 2026"
+    "title": "AI cash-burn fears trigger sharp US tech selloff; Nasdaq suffers worst day since June",
+    "content": "US equities closed sharply lower on 30 October after Amazon's third-quarter miss and Intel's weak fourth-quarter revenue guidance revived concerns over AI spending. Per Reuters, the S&P 500 fell **1.82%** to 7,580.07, the Nasdaq Composite lost **2.86%** and the Dow shed 1.09%. Intel closed down roughly 29–31% depending on the source, Amazon fell 5.6%, and Nvidia and Broadcom lost 5% and 7.3% respectively.\n\nThe Nasdaq recorded its largest one-day fall since 5 June and its worst month since March 2025, down about **5.3%** in October, while the Dow still ended the month higher. The move suggests investors are demanding returns on AI capital expenditure, a risk for index concentration in mega-cap tech.",
+    "date": "30 October 2026"
   },
   {
     "id": "3",
-    "title": "Euro zone PMI falls to four-month low as France contracts and ECB meeting nears",
-    "content": "The HCOB euro zone flash composite PMI fell to **51.9** in October from 53.1 in September, below the roughly 52.7 consensus and its weakest in four months, Reuters and FXStreet reported. Services slipped to 51.7 and manufacturing to 52.4, while France returned to contraction amid rising energy-driven input costs. S&P Global said the reading is consistent with GDP growth of about 0.3% quarter on quarter.\n\nFrench political turmoil also widened the OAT-Bund spread to a 15-year high, and the STOXX 600 closed down **0.31%** at 635.77, about 1.4% lower on the week, with Kering falling 16.6%. The data complicate the ECB's 29 October decision: it has hiked twice this year against oil-driven inflation, yet growth is now softening. The BoJ meets on 30 October and the BoE on 5 November.",
-    "date": "23 October 2026"
+    "title": "Brent near $113–118/bbl after Hormuz tanker attack; oil up around 14% in October",
+    "content": "Oil rose on 30 October after a tanker was reportedly hit by explosives in the Strait of Hormuz, adding to Houthi attacks on Saudi energy infrastructure. Brent's expiring December contract settled at about **$117.64/bbl**, while the front-month January contract closed near $113.43; sources differ because of the contract roll. WTI settled near $104.\n\nBrent gained roughly **13.6%** in October and WTI about 15%, with ship attacks reported at a record high for the month. Elevated energy prices feed inflation expectations and complicate the policy path for the Fed, which held on 28 October with two dissents for a hike. The BoJ also held at 1.25% on 30 October (8–1) but signalled further tightening, with December in play.",
+    "date": "30 October 2026"
   }
 ]
