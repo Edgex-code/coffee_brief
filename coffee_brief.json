@@ -1,20 +1,20 @@
 [
   {
     "id": "1",
-    "title": "Fed holds at 3.75–4.00% with two dissents favouring a hike; 10-year UST yield above 5%",
-    "content": "The Fed left its target range unchanged at **3.75–4.00%** on 28 October in a 10–2 vote. Governor Lisa Cook and Cleveland Fed President Beth Hammack dissented in favour of a 25bp increase, a clear hawkish signal. The next FOMC meeting is on 9 December.\n\nTreasury yields rose after the decision, with the 10-year UST trading around **5.02–5.05%** and the 2-year near 4.7%, according to CNBC and CNN. Sources differ on closing levels. US equities ended higher, with the S&P 500 and Dow up for a third straight session, though the S&P 500 was volatile intraday. With oil elevated and two voters already favouring tightening, the debate is shifting from when to cut to whether a hike is needed.",
-    "date": "28 October 2026"
+    "title": "AI-led selloff pushes Nasdaq into correction; S&P 500 suffers worst day in about 18 months",
+    "content": "US equities fell sharply on 5 November as AI and semiconductor stocks were heavily sold. Sources put the Nasdaq Composite down about **5.5%**, leaving it roughly 10–12% below its October record and in correction territory, while the S&P 500 fell about **4.4%** and the Dow lost more than 1,800 points (around 3.4%). Reports cite doubts over returns on AI capex, expected scrutiny of data-centre permitting and power costs after the Democratic midterm gains, and forced deleveraging by leveraged funds. Exact closing levels differ slightly by source.\n\nStocks steadied on 6 November, with the Nasdaq up about **1.1%** and the S&P 500 up 0.3%, but the week still ended sharply lower. The move matters beyond one session because mega-cap tech concentration drives index returns and AI funding sentiment, and a strong US payrolls print has kept Fed hike speculation alive.",
+    "date": "05 November 2026"
   },
   {
     "id": "2",
-    "title": "AI cash-burn fears trigger sharp US tech selloff; Nasdaq suffers worst day since June",
-    "content": "US equities closed sharply lower on 30 October after Amazon's third-quarter miss and Intel's weak fourth-quarter revenue guidance revived concerns over AI spending. Per Reuters, the S&P 500 fell **1.82%** to 7,580.07, the Nasdaq Composite lost **2.86%** and the Dow shed 1.09%. Intel closed down roughly 29–31% depending on the source, Amazon fell 5.6%, and Nvidia and Broadcom lost 5% and 7.3% respectively.\n\nThe Nasdaq recorded its largest one-day fall since 5 June and its worst month since March 2025, down about **5.3%** in October, while the Dow still ended the month higher. The move suggests investors are demanding returns on AI capital expenditure, a risk for index concentration in mega-cap tech.",
-    "date": "30 October 2026"
+    "title": "Brent posts steepest weekly fall since 2020 on US-Iran deal hopes; Hormuz still disrupted",
+    "content": "Oil fell sharply over the week to 6 November as markets priced a possible US-Iran agreement following the US midterm elections. Brent settled at **$98.32/bbl** on Friday, down from around $106 on 2 November, in its steepest weekly decline since 2020, while WTI settled near **$90.83/bbl**. Qatar is reportedly mediating a draft deal, although Iran reported further tanker attacks in the Strait of Hormuz on Thursday and the waterway remains effectively shut to normal commercial traffic.\n\nLower crude helped bonds and equities early in the week and eased near-term inflation concerns, but the move rests on diplomacy rather than supply. Goldman Sachs raised its December Brent forecast to $105/bbl, warning of upside risk if Gulf output stays depressed, so energy remains a key driver of the inflation and central bank outlook.",
+    "date": "06 November 2026"
   },
   {
     "id": "3",
-    "title": "Brent near $113–118/bbl after Hormuz tanker attack; oil up around 14% in October",
-    "content": "Oil rose on 30 October after a tanker was reportedly hit by explosives in the Strait of Hormuz, adding to Houthi attacks on Saudi energy infrastructure. Brent's expiring December contract settled at about **$117.64/bbl**, while the front-month January contract closed near $113.43; sources differ because of the contract roll. WTI settled near $104.\n\nBrent gained roughly **13.6%** in October and WTI about 15%, with ship attacks reported at a record high for the month. Elevated energy prices feed inflation expectations and complicate the policy path for the Fed, which held on 28 October with two dissents for a hike. The BoJ also held at 1.25% on 30 October (8–1) but signalled further tightening, with December in play.",
-    "date": "30 October 2026"
+    "title": "BoE raises Bank Rate by 25bp to 4% in 8–1 vote, its first hike since August 2023",
+    "content": "The BoE's MPC voted 8–1 on 5 November to raise Bank Rate by 25bp to **4%**, ending a hold at 3.75%. Catherine Mann dissented in favour of a larger **50bp** increase, while Swati Dhingra and Alan Taylor, who had previously backed holding, supported the rise. It is the first increase since August 2023, with higher energy prices cited as a key concern for inflation persistence. The next decision is due on 17 December.\n\nThe hike underlines a hawkish turn among major central banks: the Fed held at 3.75–4.00% in October with two dissents for a hike, and the BoJ signalled further tightening. Sources reviewed did not give a clear GBP or gilt reaction. A resilient US labour market and volatile oil leave the December meetings finely balanced.",
+    "date": "05 November 2026"
   }
 ]
