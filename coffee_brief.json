@@ -1,20 +1,20 @@
 [
   {
     "id": "1",
-    "title": "Hot US October CPI lifts Fed hike bets; 2-year UST yield posts biggest jump since April 2025",
-    "content": "US CPI rose 0.4% month-on-month in October, above the 0.3% Reuters poll forecast, while core CPI rose 0.3% against expectations of 0.2%, according to the BLS. The BLS did not publish a 12-month rate because last year's government shutdown disrupted data collection. Fed Governor Christopher Waller backed a 25bp December hike and floated a 50bp move.\n\nThe 2-year UST yield jumped about 18bp to roughly **4.73%**, its largest one-day rise since the April 2025 tariff shock, and the 10-year briefly topped 5% before settling near **4.99%**. The S&P 500 fell **0.38%**, the DXY gained about 0.6% and gold dropped roughly 2%. Futures now fully price a 25bp hike at the 8–9 December FOMC, with a small chance of 50bp.",
-    "date": "10 November 2026"
+    "title": "AI rout drags S&P 500 and Dow into correction; Nasdaq suffers worst week since 2020",
+    "content": "An AI-led sell-off deepened on Friday, with the S&P 500 falling about 3.7% to 6,910.39, more than 10% below its October record and its seventh straight loss. The index lost roughly **8.6%** on the week, its worst since April 2025, while the Nasdaq dropped about 10% and erased its 2026 gains. Anthropic's record IPO debut on Thursday failed to revive sentiment.\n\nThe VIX jumped to about **35.9**, its highest close since March, as the SOX semiconductor index fell 10.7% on the day. Contagion was global: the STOXX 600 lost about 5.8% on the week and the Nikkei roughly 7.7%. Haven flows pulled the 10-year UST yield down to around **4.95%** and lifted the JPY, though futures still price a December Fed hike at roughly 90%.",
+    "date": "20 November 2026"
   },
   {
     "id": "2",
-    "title": "Jensen Huang resigns as Nvidia CEO amid spy-probe scandal; AI bellwether's slide deepens",
-    "content": "Nvidia said on 12 November that Jensen Huang had resigned as president, CEO and board member with immediate effect, ending a 33-year tenure. The move followed a board investigation, opened days earlier, into his relationship with a woman alleged to be a Chinese intelligence asset. CFO Colette Kress is interim CEO, Harvey Jones becomes the company's first board chair, and a search for a permanent CEO is under way.\n\nNvidia shares closed down **4.34%** on the day, CNBC reported, leaving the stock more than 20% lower over the past month. Reuters said the company had lost about **$600bn** in market value this week before the announcement. Chip weakness weighed on the Nasdaq, which fell **0.9%** on Friday even as the S&P 500 ended the week about 2.5% higher.",
-    "date": "12 November 2026"
+    "title": "Nvidia sinks about 14% as SEC accounting probe overshadows record quarter",
+    "content": "Nvidia reported fiscal Q3 revenue of about $115.8bn on 18 November, up roughly 103% year on year and ahead of consensus near $108.8bn, and guided Q4 to around $130bn. Shares initially rose after hours, but gains faded amid leadership uncertainty under interim CEO Colette Kress. On 20 November, Reuters reported that SEC enforcement staff were examining potential accounting issues, including changes to revenue reporting and AI financing deals.\n\nThe stock fell about **14%** on Friday to roughly **$125.53**, taking its weekly loss to around **23%**, its worst week since October 2008. As the AI bellwether, its slide dragged chipmakers lower from Wall Street to Tokyo and Seoul. Reuters noted that investigations are not evidence of wrongdoing and many close without enforcement action.",
+    "date": "20 November 2026"
   },
   {
     "id": "3",
-    "title": "IEA sees first oil surplus since Iran war began as Gulf exports recover; Brent posts 2nd weekly fall",
-    "content": "The IEA said in its November Oil Market Report that the global market will return to surplus in Q4 for the first time since the Iran war began. It expects supply of about 105m bpd, 1.7m bpd above demand, reversing its earlier deficit forecast. Gulf exports excluding Oman recovered to 18.4m bpd in October, still 26% below pre-war levels, while the US blockade continues to curb Iranian flows. The agency sees a 2027 surplus of about 3.8m bpd.\n\nBrent settled at **$95.84/bbl** on Friday and WTI at **$88.56/bbl**, with Brent down about **2.5%** on the week, its second straight weekly decline. Higher US crude inventories added pressure, although Houthi strikes on Saudi infrastructure and tanker attacks kept a geopolitical premium in prices.",
-    "date": "13 November 2026"
+    "title": "UK CPI rises to 3.6% but softer services trim BoE December hike bets; gilts rally",
+    "content": "UK CPI inflation rose to 3.6% in the 12 months to October from 3.5% in September, the ONS said, a one-year high driven mainly by fuel and an earlier tobacco duty rise. The print was slightly below the BoE's 3.7% forecast. Core CPI held at 2.8%, while services inflation stayed at 3.7%, under the Reuters poll forecast of 3.8%.\n\nMarkets trimmed the implied probability of a December BoE hike to about 80% from roughly 90% before the release. The 10-year gilt yield fell about **8–10bp** to near **5.29%**, while sterling slipped around 0.4% to about **$1.31**, a multi-week low. The MPC announces its decision on 17 December, a day after November CPI is published.",
+    "date": "18 November 2026"
   }
 ]
